@@ -19,5 +19,68 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Syllabus.html",
+    "href": "Syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "In this competitive global environment, the ability to explore visual representation of business data interactively and to detect meaningful patterns, trends and exceptions from these data are increasingly becoming an important skill for data analysts and business practitioners. Drawing from research and practice on Data Visualisation, Human-Computer Interaction, Data Analytics, Data Mining and Usability Engineering, this course aims to share with you how visual analytics techniques can be used to interact with data from various sources and formats, explore relationship, ’‘’detect the expected and discover the unexpected’’’ without having to deal with complex statistical formulas and programming.\nThe goals of this course are:\n\nTo share with you the principles, best practices and methods of visual analytics\nTo provide you hands-on experiences in using commercial-off-the-shelf visual analytics software and programming tools to design visual analytics applications"
+  },
+  {
+    "objectID": "Syllabus.html#synopsis",
+    "href": "Syllabus.html#synopsis",
+    "title": "Syllabus",
+    "section": "",
+    "text": "In this competitive global environment, the ability to explore visual representation of business data interactively and to detect meaningful patterns, trends and exceptions from these data are increasingly becoming an important skill for data analysts and business practitioners. Drawing from research and practice on Data Visualisation, Human-Computer Interaction, Data Analytics, Data Mining and Usability Engineering, this course aims to share with you how visual analytics techniques can be used to interact with data from various sources and formats, explore relationship, ’‘’detect the expected and discover the unexpected’’’ without having to deal with complex statistical formulas and programming.\nThe goals of this course are:\n\nTo share with you the principles, best practices and methods of visual analytics\nTo provide you hands-on experiences in using commercial-off-the-shelf visual analytics software and programming tools to design visual analytics applications"
+  },
+  {
+    "objectID": "Syllabus.html#learning-objectives",
+    "href": "Syllabus.html#learning-objectives",
+    "title": "Syllabus",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nUpon successful completion of the course, students will be able to:\n\nUnderstand the basic concepts, theories and methodologies of visual analytics.\nAnalyse data using appropriate visual thinking and visual analytics techniques.\nPresent data using appropriate visual communication and graphical methods.\nDesign and implement cutting-edge visual analytics system for supporting decision making.\n\n\nCompetencies\n\nExplaining the concepts and principles of Visual Analytics.\nDescribing the differences between Visual Analytics, Data Visualisation, Statistical Graphs and Infographics.\nExplaining the basic concept of visual variables and applying these concepts and best practices in designing data-driven static graphs.\nExplaining interactive techniques and best practices, and applying these techniques in designing interactive data visualisation.\nUnderstanding the data characteristics of numerical data and building data visualisation by using appropriate visually driven univariate and bivariate data analytics methods.\nUnderstanding the characteristics of multivariate data and building data visualisation by using appropriate multivariate visualisation methods.\nUnderstanding the characteristics of time-series data and building data visualisation by using appropriate time-series visualisation methods.\nUnderstanding the characteristics of geographical data and building data visualisation by using appropriate geovisualisation methods.\nUnderstanding the characteristics of network data and building data visualisation by using appropriate network graph visualisation methods.\nExplain the concepts and principles of Information Dashboard.\nBuilding analytical dashboard by using Commercial off-the-shelf (COTS) software.\nDesigning visual analytics application programmatically by using free and open source software and packages."
+  },
+  {
+    "objectID": "Syllabus.html#basic-modules",
+    "href": "Syllabus.html#basic-modules",
+    "title": "Syllabus",
+    "section": "Basic Modules",
+    "text": "Basic Modules\nThis course comprises ten integrated components as shown below:"
+  },
+  {
+    "objectID": "Syllabus.html#prerequisites",
+    "href": "Syllabus.html#prerequisites",
+    "title": "Syllabus",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nThere are no prerequisites for the class. However, students taking this course must be willing to learn R programming framework. For students who are new to R, you are encouraged to consult the following resources prior to the lesson starts:\n\nGarrett Grolemund & Hadley Wickham (2020) R for Data Science. This book is highly recommended to anybody who are interested to understand how to do ’‘’Modern Data Science’’’ by using ’‘’tidyverse’’’ principles and methods.\n\n王敏杰 数据科学中的 R 语言.\n\nYou don’t have to finish reading either one of them before lesson starts. Take your time, review them from time to time. You will find yourself learning something new each time you revisit the book."
+  },
+  {
+    "objectID": "Syllabus.html#course-assessment",
+    "href": "Syllabus.html#course-assessment",
+    "title": "Syllabus",
+    "section": "Course Assessment",
+    "text": "Course Assessment\nThe assessment for this course consists of four major components, namely:\n\nIn-class Hands-on exercise and class participation,\nDataViz Makeover\nTake-home exercises,\nVisual Analytics Project.\n\nThere will be no mid-term test or final examination for this course.\n\nIn-class Exercise and Class Participation\nA strict requirement for each class meeting is to complete the assigned readings and to try out the hands-on exercises before coming to class. Readings will be provided from the textbook on technical information and from provided documents and articles on business applications of Visual Analytics. Students are required to review the recommended readings and class exercises before coming to class. Without preparation, the learning and discussions would not be as meaningful. Student sharing of insights from readings and hands-on exercises of assigned materials in class participation will form a large part of the learning in this course.\nDuring lesson, students are required to complete a series of hands-on exercises using either Tableau or R. In general, these exercises are guided if Tableau is used. For R programming session, hands-on guides will be shared on RPubs before lesson starts. By the end of each lesson, students are required to upload their in-class exercise onto eLearn for reviewing. The exercises will be briefly reviewed after collection. Students will be given 10 points for correctly completing the exercise, 7-9 points for partially completed and correct work, and 0 points if absent. Up to 100 points can be accumulated during the term.\n\n\nTake-home Exercise\nThe take-home exercise provides students with the opportunity to revise and practice the R packages and programming skills they had learned in class at home. It is a weekly exercise. Each exercise is designed to be completed within 1.5-2 hours. The exercise is not a repetition of the in-class exercise but it requires students to be innovative and creative in applying appropriate R packages to design enlightening and yet functional data visualisation for analytics purposes.\nStudents may work together to help one another with R programming issues and discuss the materials that constitute the take-home exercise. However, each student is required to prepare and submit the take-home exercise (including any computer work) on their own. Cheating is strictly prohibited. Cheating includes but not limited to: plagiarism and submission of work that is not the student’s\n\n\nVisual Analytics Project\nThe purpose of the project is to provide students with first hand experiences on collecting, processing and analysing large business data using real world data. A project may involve developing new methods or implementing visual analytics system to support analytic tasks in specific domains. Alternatively, a project may be in the form of application development by integrating analytical tools within a visual analytics environment. Students are encouraged to focus on research topics that are relevant to their field of study. It should address a concrete visual analytics problem and should propose a novel and creative solution.\nFor more details please refer to Visual Analytics Project page."
+  },
+  {
+    "objectID": "Syllabus.html#grading-summary",
+    "href": "Syllabus.html#grading-summary",
+    "title": "Syllabus",
+    "section": "Grading Summary",
+    "text": "Grading Summary\nThe grading distribution of this course is as follows:\n\nIn-class Exercise and Class Participation 20%\nTake-home Exercise 50%\nVisual Analytics Project 30%\n\nProject blog 15%\nPoster 10%\nPractice research paper 25%\nArtifact 50%\n\n\nThere will be no mid-term test and final examination for this course."
+  },
+  {
+    "objectID": "Syllabus.html#core-readings",
+    "href": "Syllabus.html#core-readings",
+    "title": "Syllabus",
+    "section": "Core Readings",
+    "text": "Core Readings\nClaus. O. Wilke (2019) Fundamentals of Data Visualisation, O’Reilly. USA\nCairo, Alberto (2013) The Functional Art: An Introduction to Information Graphics and Visualization, New Riders, Berkeley, CA. This book is available at SMU eLibrary.\nFew, Stephen (2004) Show Me the Numbers: Designing Tables and Graphs to Enlighten, Analytics Press, Oakland, USA.\nFew, Stephen (2009) Now You See It: Simple Visualization Techniques for Quantitative Analysis, Analytics Press, Oakland, USA."
+  },
+  {
+    "objectID": "Syllabus.html#words-of-encouragement",
+    "href": "Syllabus.html#words-of-encouragement",
+    "title": "Syllabus",
+    "section": "Words of Encouragement",
+    "text": "Words of Encouragement\nFor the next 10 weeks, your learning journey will be very bumpy, especially come to R programming\n\nLearning R can be difficult at first—it’s like learning a new language, just like Spanish, French, or Chinese. Hadley Wickham—the chief data scientist at RStudio and the author of some amazing R packages you’ll be using like ggplot2 — made this wise observation:\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It’s just a natural part of programming. So, it happens to everyone and gets less and less over time. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later.\n\nEven experienced programmers find themselves bashing their heads against seemingly intractable errors.\n\nIf you’re finding yourself taking way too long hitting your head against a wall and not understanding, take a break, talk to classmates, and don’t hesitate to approach me.\nThe students who have a bad time in this course are the ones who don’t work with one another to learn. We are a learning community, and we should help each other to learn.\nIf you understand something and someone is struggling with it, try and help them. If you are struggling, take a breath, and try to pinpoint what you are struggling with.\nOur goal is to be better programmers each day, not to be the perfect programmer. There’s no such thing as a perfect programmer. I’ve been learning new things almost every day.\nI promise you can succeed in this class as long as you are willing to learn, practice, be open minded and don’t give up easily."
   }
 ]
