@@ -89,5 +89,229 @@
     "title": "Lesson Plan",
     "section": "",
     "text": "Lesson\nDate\nVenue\nTopic\nRemarks\n\n\n\n\n1\n13/1\nSOE/SCIS2 SR B1-2\nIntroduction to Visual Analytics\n\n\n\n2\n20/1\nSOE/SCIS2 SR B1-2\nDesigning Graphs to Enlighten\n\n\n\n3\n27/1\nSOE/SCIS2 SR B1-2\nInteractivity in Visual Analytics\n\n\n\n4\n3/2\nSOE/SCIS2 SR B1-2\nFundamentals of Visual Analytics\n\n\n\n5\n17/2\nSOE/SCIS2 SR B1-2\nVisual Multivariate Analysis\n\n\n\n6\n24/2\nSOE/SCIS2 SR B1-2\nIt’s About Time\n\n\n\n7\n2/3\nTBC\nVisualising and Analysing Geographic Data\nReplacing Lunar New Year holiday\n\n\n8\n9/3\nSOE/SCIS2 SR B1-2\nNetwork Data Visualisation and Analysis\n\n\n\n9\n16/3\nSOE/SCIS2 SR B1-2\nInformation Dashboard Design\n\n\n\n10\n23/3\nSOE/SCIS2 SR B1-2\nVisual Analytics of Financial Data\n\n\n\n11\n30/3\nTBC\nPoster Presentation"
+  },
+  {
+    "objectID": "Quarto.html",
+    "href": "Quarto.html",
+    "title": "All About Quarto",
+    "section": "",
+    "text": "This page provides links to useful resources related Quarto."
+  },
+  {
+    "objectID": "Quarto.html#overview",
+    "href": "Quarto.html#overview",
+    "title": "All About Quarto",
+    "section": "Overview",
+    "text": "Overview\n\nGetting Started\nRStudio IDE\nUsing R\nHTML Basics"
+  },
+  {
+    "objectID": "Quarto.html#create-websites-and-blogs",
+    "href": "Quarto.html#create-websites-and-blogs",
+    "title": "All About Quarto",
+    "section": "Create websites and blogs",
+    "text": "Create websites and blogs\n\nCreating a Website\nWebsite Navigation\nDocument Listings"
+  },
+  {
+    "objectID": "Quarto.html#authoring-guide",
+    "href": "Quarto.html#authoring-guide",
+    "title": "All About Quarto",
+    "section": "Authoring Guide",
+    "text": "Authoring Guide\n\nMarkdown Basics\nFigures\nTables\nDiagrams\nCitations & Footnotes\nCross References\nArticle Layout\n\nUseful web resources\n\nAwesome Quarto. This github repository provides a comprehensive listing of Quarto resources. It should be the second stop (after Quarto homepage) if you need to look for revelent materials about Quarto."
+  },
+  {
+    "objectID": "R.html",
+    "href": "R.html",
+    "title": "R Resources",
+    "section": "",
+    "text": "R for Data Science by Garrett Grolemund and Hadley Wickham.\nModern R with the tidyverse by Bruno Rodrigues. Chapter 2 provides a detail discussion on R data objects.\nBrendan R. E. Ansell Introduction to R - tidyverse\nThe Comprehensive Guide to Installing R Packages from CRAN, Bioconductor, GitHub and Co.. This article provides useful tips on how to install R packages from different sources.\nR Workflow"
+  },
+  {
+    "objectID": "R.html#getting-started-with-r",
+    "href": "R.html#getting-started-with-r",
+    "title": "R Resources",
+    "section": "",
+    "text": "R for Data Science by Garrett Grolemund and Hadley Wickham.\nModern R with the tidyverse by Bruno Rodrigues. Chapter 2 provides a detail discussion on R data objects.\nBrendan R. E. Ansell Introduction to R - tidyverse\nThe Comprehensive Guide to Installing R Packages from CRAN, Bioconductor, GitHub and Co.. This article provides useful tips on how to install R packages from different sources.\nR Workflow"
+  },
+  {
+    "objectID": "R.html#blog-post",
+    "href": "R.html#blog-post",
+    "title": "R Resources",
+    "section": "Blog post",
+    "text": "Blog post\n\nR Workflow from Statistical Thinking."
+  },
+  {
+    "objectID": "ShinyResources.html",
+    "href": "ShinyResources.html",
+    "title": "Shiny Resources",
+    "section": "",
+    "text": "Shiny from R Studio\nLearn Shiny\nFunction reference\nThe Shiny Cheat sheet\n\n\n\n\n\nThe Past and Future of Shiny. A must view presentation.\nA new way to build your Shiny app’s UI.\nShiny Programming Practices.\nShiny UI Editor Feature Tour.\nShiny UI Editor Project Walkthrough.\nGetting Started with {shinytest2} Part I.\nGetting Started with {shinytest2} Part 2.\nGetting Started with {shinytest2} Part 3.\n\n\n\n\n\nHadley Wickham (2020) Mastering Shiny. Everything you need to know about Shiny can be found here. It is not an easy to read book but worth investing time and effort to read.\nColin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard (2020) Engineering Production-Grade Shiny Apps\nDavid Granjon (2020) Outstanding User Interfaces with Shiny\nHow to Build a Shiny Application from Scratch\nShiny 入門\n\n\n\n\n\nGallery\nShiny Contest Winners 2019 - Full List\nShiny Contest Winners 2020\nShiny Contest Winners 2021\nFifteen New Zealand government Shiny web apps\nIntroducing the New Zealand Trade Intelligence Dashboard\nShiny for Good: R Shiny Projects with a Positive Impact\n\n\n\n\n\n6 simple Shiny things I have learned from creating a somewhat small app\nHow to enhance your Shiny apps with JavaScript (JS) without knowing much JS"
+  },
+  {
+    "objectID": "ShinyResources.html#shiny-web-based-visual-analytics-development-tool-in-r",
+    "href": "ShinyResources.html#shiny-web-based-visual-analytics-development-tool-in-r",
+    "title": "Shiny Resources",
+    "section": "",
+    "text": "Shiny from R Studio\nLearn Shiny\nFunction reference\nThe Shiny Cheat sheet\n\n\n\n\n\nThe Past and Future of Shiny. A must view presentation.\nA new way to build your Shiny app’s UI.\nShiny Programming Practices.\nShiny UI Editor Feature Tour.\nShiny UI Editor Project Walkthrough.\nGetting Started with {shinytest2} Part I.\nGetting Started with {shinytest2} Part 2.\nGetting Started with {shinytest2} Part 3.\n\n\n\n\n\nHadley Wickham (2020) Mastering Shiny. Everything you need to know about Shiny can be found here. It is not an easy to read book but worth investing time and effort to read.\nColin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard (2020) Engineering Production-Grade Shiny Apps\nDavid Granjon (2020) Outstanding User Interfaces with Shiny\nHow to Build a Shiny Application from Scratch\nShiny 入門\n\n\n\n\n\nGallery\nShiny Contest Winners 2019 - Full List\nShiny Contest Winners 2020\nShiny Contest Winners 2021\nFifteen New Zealand government Shiny web apps\nIntroducing the New Zealand Trade Intelligence Dashboard\nShiny for Good: R Shiny Projects with a Positive Impact\n\n\n\n\n\n6 simple Shiny things I have learned from creating a somewhat small app\nHow to enhance your Shiny apps with JavaScript (JS) without knowing much JS"
+  },
+  {
+    "objectID": "Tableau.html",
+    "href": "Tableau.html",
+    "title": "Tableau Resources",
+    "section": "",
+    "text": "Tableau home page\nTraining and Tutorials\nTableau Desktop User Guide\nTableau Prep Builder User Guide\nVisual Gallery\nTableau Public"
+  },
+  {
+    "objectID": "Tableau.html#all-about-tableau",
+    "href": "Tableau.html#all-about-tableau",
+    "title": "Tableau Resources",
+    "section": "",
+    "text": "Tableau home page\nTraining and Tutorials\nTableau Desktop User Guide\nTableau Prep Builder User Guide\nVisual Gallery\nTableau Public"
+  },
+  {
+    "objectID": "Tableau.html#white-papers",
+    "href": "Tableau.html#white-papers",
+    "title": "Tableau Resources",
+    "section": "White papers",
+    "text": "White papers\n\n10 Best Practices for Building Effective Dashboards\nTips for creating effective, engaging data visualizations"
+  },
+  {
+    "objectID": "Tableau.html#blogs-that-inspired",
+    "href": "Tableau.html#blogs-that-inspired",
+    "title": "Tableau Resources",
+    "section": "Blogs that inspired",
+    "text": "Blogs that inspired\n\nThe Information Lab\nDataRemixed\nPlayfairData\nData Revelations, especially Visualizing Survey Data and Steven’s Blog"
+  },
+  {
+    "objectID": "Tableau.html#from-data-to-tada",
+    "href": "Tableau.html#from-data-to-tada",
+    "title": "Tableau Resources",
+    "section": "From data to tada",
+    "text": "From data to tada\n\nUsing data visualization to make better decisions—faster\n17 key traits of data literacy\nInspiring change with data visualization\n5 important elements of dashboard design"
+  },
+  {
+    "objectID": "Tableau.html#tableau-tips-and-tricks",
+    "href": "Tableau.html#tableau-tips-and-tricks",
+    "title": "Tableau Resources",
+    "section": "Tableau Tips and Tricks",
+    "text": "Tableau Tips and Tricks\n\nRelationships, Joins and Unions in Tableau 2020.2, this Youtube video explains selected data management features introduced in Tableau 2020.2. (updated on 8th Feb 2021)."
+  },
+  {
+    "objectID": "VAProject.html",
+    "href": "VAProject.html",
+    "title": "Visual Analytics Project",
+    "section": "",
+    "text": "The purpose of the project is to provide students first hand experience on building web-enabled visual analytics application by using R Shiny. It aims to democratize data and analytics. Hence, the application focuses and emphasises on interactivity and effective integration of techniques from data analytics and data visualization.\nA project may involve developing new methods or implementing visual analytics system to support analytic tasks in specific domains. Alternatively, a project may be in the form of application development by integrating analytical tools within a visual analytics environment. Students are encouraged to focus on research topics that are relevant to their field of study. It should address a concrete visual analytics problem and should propose a novel and creative solution.\n\n\n\nThe followings are possible topic and data sources:\nTBA\n\n\n\nThe project is team work. Students are required to form a project team of 2-3 members by the first week of the academic term.\nA good group project is a system consisting of a collection of well defined sub-modules. Each sub-module should be the responsibility of one person and be clearly identified as their project. A good criteria for whether you should work in a group is whether the system as a whole is greater than the sum of its parts!\nEach project team are required to maintain a comprehensive Minutes of Meeting from the beginning of the project until the end of the project. Each minutes of meeting should include but not limit to the discussion, disagreements, and consensus made and action items agreed within the team. The Minutes of Meeting should also record the division of labour and the considerations involved in the decision made.\nThe following links provided useful guides on how to prepare the minutes of a meeting:\n\nHow to Write Meeting Minutes: Examples + Best Practices\nHow To Write Effective Meeting Minutes(with Templates and Samples)\n\nThe Minutes of Meeting must be uploaded on eLearn within 24hrs after the meeting ended.\n\n\n\n\nBrainstorming project ideas and consulting with course instructor anytime after the project topic(s) is released.\nEditing and publishing project proposal on Netlify latest by the end of Week 5.\nUploading project poster on eLearn by 27th March 2024 at 11:59pm (mid-night).\nPoster presentation: 30th March 2024, 9:00am-11:00am.\nSubmission of final application, user guide, project poster and artifacts: 31st March 2024 by 11:59pm (mid-night)\n\n\n\n\n\n\nAt the beginning of the project, project teams are required to create a project Github. The project Github should include all the materials used to develop the project and the written materials such as proposal, poster and practice research paper. It must be used to maintain a complete project version control including the application and project documents. The Github link must be included in the project proposal. By the end of the project, the project team must pack the final version of the Github repository and upload onto eLearn for final submission. The Github link also must be provided on eLearn.\n\n\n\nEach project team are required to create the project website by using Quarto. It will be disseminated by using webserver such as Netfity.\nAs a first step, you should create a project summary at the project website that includes:\n\nThe title of your project,\nA short description of not more than 350 word summarising the motivation, objectives, main features of the application your team are going to build, and\nThe project proposal. This should in a webpage (remember to provide a link at the wiki).\n\n\n\n\nEach project teams must start thinking about their project ideas after the Shiny Workshop. They are expected to discuss their project topic and scope of works with the instructor from week 1 onward. A project proposal in the form of website edited using Quarto will be prepared and the link must be provided on eLearn by 11th February 2024.\nThe project proposal should describe the motivation of the project, problems or issues that the project will address, the relevant related work, the approach the team plans to take to solve the problem, and early prototypes or storyboards. The project teams should take advantage of this proposal as a chance to get feedback on the direction of the project from their peers.\nStudents are required to update their project websites with all the details including the final application, user guide and poster by 31st March 2024.\n\n\n\nThe project poster should provide an overview of your project. It should include, but not limited to the following information:\n\nIssues and problems - A clear statement of the issues or/and problems your project addresses.\nMotivation - An explanation of why the issues and/or problems are interesting and what make them difficult to solve.\nApproach - A description of the techniques or algorithms you used to solve the problem.\nResults - Screenshots and a working demo of the system you built.\nFuture Work - An explanation of how the work could be extended.\n\nThe dimensions for the poster must conform to the International Standards Organization (ISO) poster size format (A1).\n\nSize = ISO A1 (594 × 841mm or 23.39 × 33.11inci)\nResolution = 300dpi or above\nFile format = jpeg or pdf\n\nPlease ensure that the poster is in high resolution.\nNote: The poster will be considered a final deliverable, so don’t forget to apply good visual design and data visualisation principles and best practice to your poster.\n\n\n\nThe final deliverable will include:\n\nDeployment of the Web-enabled Visual Analytics Application on shinyapps.io by RStudio.\nArtifact including the ShinyApp codes, data and all r modules.\nUser Guide - Step-by-step guide on how to use the data visualisation functions designed.\n\nSample UserGuide 1\nSample UserGuide 2\n\nProject poster\nMinutes of Meeting\n\nThe final deliverable must be uploaded into the Dropbox of e-Learn (e.g. LMS). It must in a single zip file format. If the file size is beyond the file size allocated by eLean, it can be upoaded on SMU OneDrive.\n\n\n\n\nThe visual analytics project will account for 30% of your final grade in the course. The distribution of marks for each stage of the project are as follows:\n\nProject website 20%\nPoster 15%\nMinutes of Meeting 15%\nShinyApp 50%\n\nThe course instructor will consider strongly the novelty of the idea (If it has never been done before, you will get lots of credit!), how it addresses the problem at hand, the methodology you employ in doing the research, and your technical skill in implementing the idea.\n\n\nThe poster will be graded based on the following criteria:\n\nClear communication of key aspects of solution\nClear communication of design approaches\nClear communication of arguments for proposed solution\nCraft quality of the solution\n\n\n\n\n\nNote that the following examples are for references purposes. You are urge to use your own creativity and innovation to design the application\n\n\n\nSGGoldenGoose\n\n\n\n\n\nOhio City Renewal Solutions\nWealth Check Up\n\n\n\n\n\nGroup 3: Tanzania Tourism Analysis\nGroup 5: Loan Default Prediction\n\n\n\n\n\nNetwork-enabled Maritime Observations\nA Fishy Business!\nFishEye"
+  },
+  {
+    "objectID": "VAProject.html#overview",
+    "href": "VAProject.html#overview",
+    "title": "Visual Analytics Project",
+    "section": "",
+    "text": "The purpose of the project is to provide students first hand experience on building web-enabled visual analytics application by using R Shiny. It aims to democratize data and analytics. Hence, the application focuses and emphasises on interactivity and effective integration of techniques from data analytics and data visualization.\nA project may involve developing new methods or implementing visual analytics system to support analytic tasks in specific domains. Alternatively, a project may be in the form of application development by integrating analytical tools within a visual analytics environment. Students are encouraged to focus on research topics that are relevant to their field of study. It should address a concrete visual analytics problem and should propose a novel and creative solution."
+  },
+  {
+    "objectID": "VAProject.html#project-topic",
+    "href": "VAProject.html#project-topic",
+    "title": "Visual Analytics Project",
+    "section": "",
+    "text": "The followings are possible topic and data sources:\nTBA"
+  },
+  {
+    "objectID": "VAProject.html#project-management",
+    "href": "VAProject.html#project-management",
+    "title": "Visual Analytics Project",
+    "section": "",
+    "text": "The project is team work. Students are required to form a project team of 2-3 members by the first week of the academic term.\nA good group project is a system consisting of a collection of well defined sub-modules. Each sub-module should be the responsibility of one person and be clearly identified as their project. A good criteria for whether you should work in a group is whether the system as a whole is greater than the sum of its parts!\nEach project team are required to maintain a comprehensive Minutes of Meeting from the beginning of the project until the end of the project. Each minutes of meeting should include but not limit to the discussion, disagreements, and consensus made and action items agreed within the team. The Minutes of Meeting should also record the division of labour and the considerations involved in the decision made.\nThe following links provided useful guides on how to prepare the minutes of a meeting:\n\nHow to Write Meeting Minutes: Examples + Best Practices\nHow To Write Effective Meeting Minutes(with Templates and Samples)\n\nThe Minutes of Meeting must be uploaded on eLearn within 24hrs after the meeting ended."
+  },
+  {
+    "objectID": "VAProject.html#project-milestone",
+    "href": "VAProject.html#project-milestone",
+    "title": "Visual Analytics Project",
+    "section": "",
+    "text": "Brainstorming project ideas and consulting with course instructor anytime after the project topic(s) is released.\nEditing and publishing project proposal on Netlify latest by the end of Week 5.\nUploading project poster on eLearn by 27th March 2024 at 11:59pm (mid-night).\nPoster presentation: 30th March 2024, 9:00am-11:00am.\nSubmission of final application, user guide, project poster and artifacts: 31st March 2024 by 11:59pm (mid-night)"
+  },
+  {
+    "objectID": "VAProject.html#project-deliverables",
+    "href": "VAProject.html#project-deliverables",
+    "title": "Visual Analytics Project",
+    "section": "",
+    "text": "At the beginning of the project, project teams are required to create a project Github. The project Github should include all the materials used to develop the project and the written materials such as proposal, poster and practice research paper. It must be used to maintain a complete project version control including the application and project documents. The Github link must be included in the project proposal. By the end of the project, the project team must pack the final version of the Github repository and upload onto eLearn for final submission. The Github link also must be provided on eLearn.\n\n\n\nEach project team are required to create the project website by using Quarto. It will be disseminated by using webserver such as Netfity.\nAs a first step, you should create a project summary at the project website that includes:\n\nThe title of your project,\nA short description of not more than 350 word summarising the motivation, objectives, main features of the application your team are going to build, and\nThe project proposal. This should in a webpage (remember to provide a link at the wiki).\n\n\n\n\nEach project teams must start thinking about their project ideas after the Shiny Workshop. They are expected to discuss their project topic and scope of works with the instructor from week 1 onward. A project proposal in the form of website edited using Quarto will be prepared and the link must be provided on eLearn by 11th February 2024.\nThe project proposal should describe the motivation of the project, problems or issues that the project will address, the relevant related work, the approach the team plans to take to solve the problem, and early prototypes or storyboards. The project teams should take advantage of this proposal as a chance to get feedback on the direction of the project from their peers.\nStudents are required to update their project websites with all the details including the final application, user guide and poster by 31st March 2024.\n\n\n\nThe project poster should provide an overview of your project. It should include, but not limited to the following information:\n\nIssues and problems - A clear statement of the issues or/and problems your project addresses.\nMotivation - An explanation of why the issues and/or problems are interesting and what make them difficult to solve.\nApproach - A description of the techniques or algorithms you used to solve the problem.\nResults - Screenshots and a working demo of the system you built.\nFuture Work - An explanation of how the work could be extended.\n\nThe dimensions for the poster must conform to the International Standards Organization (ISO) poster size format (A1).\n\nSize = ISO A1 (594 × 841mm or 23.39 × 33.11inci)\nResolution = 300dpi or above\nFile format = jpeg or pdf\n\nPlease ensure that the poster is in high resolution.\nNote: The poster will be considered a final deliverable, so don’t forget to apply good visual design and data visualisation principles and best practice to your poster.\n\n\n\nThe final deliverable will include:\n\nDeployment of the Web-enabled Visual Analytics Application on shinyapps.io by RStudio.\nArtifact including the ShinyApp codes, data and all r modules.\nUser Guide - Step-by-step guide on how to use the data visualisation functions designed.\n\nSample UserGuide 1\nSample UserGuide 2\n\nProject poster\nMinutes of Meeting\n\nThe final deliverable must be uploaded into the Dropbox of e-Learn (e.g. LMS). It must in a single zip file format. If the file size is beyond the file size allocated by eLean, it can be upoaded on SMU OneDrive."
+  },
+  {
+    "objectID": "VAProject.html#grading",
+    "href": "VAProject.html#grading",
+    "title": "Visual Analytics Project",
+    "section": "",
+    "text": "The visual analytics project will account for 30% of your final grade in the course. The distribution of marks for each stage of the project are as follows:\n\nProject website 20%\nPoster 15%\nMinutes of Meeting 15%\nShinyApp 50%\n\nThe course instructor will consider strongly the novelty of the idea (If it has never been done before, you will get lots of credit!), how it addresses the problem at hand, the methodology you employ in doing the research, and your technical skill in implementing the idea.\n\n\nThe poster will be graded based on the following criteria:\n\nClear communication of key aspects of solution\nClear communication of design approaches\nClear communication of arguments for proposed solution\nCraft quality of the solution"
+  },
+  {
+    "objectID": "VAProject.html#sample-projects",
+    "href": "VAProject.html#sample-projects",
+    "title": "Visual Analytics Project",
+    "section": "",
+    "text": "Note that the following examples are for references purposes. You are urge to use your own creativity and innovation to design the application\n\n\n\nSGGoldenGoose\n\n\n\n\n\nOhio City Renewal Solutions\nWealth Check Up\n\n\n\n\n\nGroup 3: Tanzania Tourism Analysis\nGroup 5: Loan Default Prediction\n\n\n\n\n\nNetwork-enabled Maritime Observations\nA Fishy Business!\nFishEye"
+  },
+  {
+    "objectID": "Rt.html",
+    "href": "Rt.html",
+    "title": "R Tips & Tricks",
+    "section": "",
+    "text": "Importing multiple files into R"
+  },
+  {
+    "objectID": "git.html",
+    "href": "git.html",
+    "title": "Git and Github",
+    "section": "",
+    "text": "Happy Git and GitHub for the useR. Highly recommended to beginners."
+  },
+  {
+    "objectID": "git.html#book",
+    "href": "git.html#book",
+    "title": "Git and Github",
+    "section": "",
+    "text": "Happy Git and GitHub for the useR. Highly recommended to beginners."
+  },
+  {
+    "objectID": "git.html#gitgithub",
+    "href": "git.html#gitgithub",
+    "title": "Git and Github",
+    "section": "git/github",
+    "text": "git/github\n\ngithub doc\nGitHub and RStudio"
+  },
+  {
+    "objectID": "git.html#blog-post",
+    "href": "git.html#blog-post",
+    "title": "Git and Github",
+    "section": "Blog post",
+    "text": "Blog post\n\nGetting starting with git and GitHub using RStudio\ngit\nTransform a folder as git project synchronized on Github or Gitlab\nRecovering from common Git predicaments\ngit in RStudio\nSolving git(GitHub) token issue"
+  },
+  {
+    "objectID": "R4Vis.html",
+    "href": "R4Vis.html",
+    "title": "R for Visual Analytics",
+    "section": "",
+    "text": "ggplot2\nggplot2 – The R graph Gallery\nIntroduction to R Graphics with ggplot2\nggplot2 - A Short Tutorial\nggplot2 介紹\n\n\n\n\n\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen (2020)ggplot2: Elegant Graphics for Data Analysis (3rd Edition, online version).\nKieran Healy (2019) Data Visualization: A practical introduction. This is the online version.\nAravind Hebbali (2020) Data Visualization with ggplot2\nWinston Chang (2020) R Graphics Cookbook (2nd edition, online version)\nRob Kabacoff (2020) Data Visualization with R\nZuguang Gu Circular Visualization in R. Last visit: 27/12/2020.\nZach Bogart & Joyce Robbins (2020) Exploratory Data Analysis & Visualization\nBBC Visual and Data Journalism cookbook for R graphics\nNordmann, E., McAleer, P., Toivo, W., Paterson, H. & DeBruine, L. Data visualisation using R, for researchers who don’t use R\n\n\n\n\n\nHow to make any plot in ggplot2?\nThe Complete ggplot2 Tutorial - Part1 | Introduction To ggplot2 (Full R code)\nThe Complete ggplot2 Tutorial - Part 2 | How To Customize ggplot2 (Full R code)\nTop 50 ggplot2 Visualizations - The Master List (With Full R Code)\nggplot2 Quickref\nData visualization with ggplot2\nggplot Wizardary\n\n\n\n\n\nggplot2 workshop part 1\nggplot2 workshop part 2\nMake Beautiful Graphs in R: 5 Quick Ways to Improve ggplot2 Graphs\nOutlier 2021—ggplot wizardy: my favorite tricks and secrets for beautiful plots in R by Cédric Scherer\n\n\n\n\n\nggVis\nggmap\nggtern, an extension to ggplot2 specifically for the plotting of ternary diagrams.\nggExtra, a collection of functions and layers to enhance ggplot2. The main function is ggMarginal, which can be used to add marginal histograms/boxplots/density plots to ggplot2 scatterplots.\nggthemes, some extra themes, geoms, and scales for ‘ggplot2’. Provides ‘ggplot2’ themes and scales that replicate the look of plots by Edward Tufte, Stephen Few, ‘Fivethirtyeight’, ‘The Economist’, ‘Stata’, ‘Excel’, and ‘The Wall Street Journal’, among others. Provides ‘geoms’ for Tufte’s box plot and range frame.\nGGally extends ‘ggplot2’ by adding several functions to reduce the complexity of combining geometric objects with transformed data. Some of these functions include a pairwise plot matrix, a two group pairwise plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks.\nsjPlot:Data Visualization for Statistics in Social Science\nggstatsplot is an extension of ggplot2 package for creating graphics with details from statistical tests included in the plots themselves and targeted primarily at behavioral sciences community to provide a one-line code to produce information-rich plots.\nggside allows the user to add graphical information about one of the main panel’s axis. This is particularly useful for metadata for discrete axis, or summary graphics on a continuous axis such as a boxplot or a density distribution. These vignette and article provide useful introduction.\nPatchwork is a package designed to make plot composition in R extremely simple and powerful. It is mainly intended for users of ggplot2 and goes to great lengths to make sure ggplots are properly aligned no matter the complexity of your composition. The Getting Started page explains the main features of the package.\ngganimate extends the grammar of graphics as implemented by ggplot2 to include the description of animation. It does this by providing a range of new grammar classes that can be added to the plot object in order to customise how it should change with time.\nggdist is an R package that provides a flexible set of ggplot2 geoms and stats designed especially for visualizing distributions and uncertainty. It is designed for both frequentist and [https://mjskay.github.io/ggdist/articles/freq-uncertainty-vis.html] visualization, taking the view that uncertainty visualization can be unified through the perspective of distribution visualization: for frequentist models, one visualizes confidence distributions or bootstrap distributions (see vignette(“freq-uncertainty-vis”)); for Bayesian models, one visualizes probability distributions (see the tidybayes package, which builds on top of ggdist)."
+  },
+  {
+    "objectID": "R4Vis.html#ggplot2",
+    "href": "R4Vis.html#ggplot2",
+    "title": "R for Visual Analytics",
+    "section": "",
+    "text": "ggplot2\nggplot2 – The R graph Gallery\nIntroduction to R Graphics with ggplot2\nggplot2 - A Short Tutorial\nggplot2 介紹\n\n\n\n\n\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen (2020)ggplot2: Elegant Graphics for Data Analysis (3rd Edition, online version).\nKieran Healy (2019) Data Visualization: A practical introduction. This is the online version.\nAravind Hebbali (2020) Data Visualization with ggplot2\nWinston Chang (2020) R Graphics Cookbook (2nd edition, online version)\nRob Kabacoff (2020) Data Visualization with R\nZuguang Gu Circular Visualization in R. Last visit: 27/12/2020.\nZach Bogart & Joyce Robbins (2020) Exploratory Data Analysis & Visualization\nBBC Visual and Data Journalism cookbook for R graphics\nNordmann, E., McAleer, P., Toivo, W., Paterson, H. & DeBruine, L. Data visualisation using R, for researchers who don’t use R\n\n\n\n\n\nHow to make any plot in ggplot2?\nThe Complete ggplot2 Tutorial - Part1 | Introduction To ggplot2 (Full R code)\nThe Complete ggplot2 Tutorial - Part 2 | How To Customize ggplot2 (Full R code)\nTop 50 ggplot2 Visualizations - The Master List (With Full R Code)\nggplot2 Quickref\nData visualization with ggplot2\nggplot Wizardary\n\n\n\n\n\nggplot2 workshop part 1\nggplot2 workshop part 2\nMake Beautiful Graphs in R: 5 Quick Ways to Improve ggplot2 Graphs\nOutlier 2021—ggplot wizardy: my favorite tricks and secrets for beautiful plots in R by Cédric Scherer\n\n\n\n\n\nggVis\nggmap\nggtern, an extension to ggplot2 specifically for the plotting of ternary diagrams.\nggExtra, a collection of functions and layers to enhance ggplot2. The main function is ggMarginal, which can be used to add marginal histograms/boxplots/density plots to ggplot2 scatterplots.\nggthemes, some extra themes, geoms, and scales for ‘ggplot2’. Provides ‘ggplot2’ themes and scales that replicate the look of plots by Edward Tufte, Stephen Few, ‘Fivethirtyeight’, ‘The Economist’, ‘Stata’, ‘Excel’, and ‘The Wall Street Journal’, among others. Provides ‘geoms’ for Tufte’s box plot and range frame.\nGGally extends ‘ggplot2’ by adding several functions to reduce the complexity of combining geometric objects with transformed data. Some of these functions include a pairwise plot matrix, a two group pairwise plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks.\nsjPlot:Data Visualization for Statistics in Social Science\nggstatsplot is an extension of ggplot2 package for creating graphics with details from statistical tests included in the plots themselves and targeted primarily at behavioral sciences community to provide a one-line code to produce information-rich plots.\nggside allows the user to add graphical information about one of the main panel’s axis. This is particularly useful for metadata for discrete axis, or summary graphics on a continuous axis such as a boxplot or a density distribution. These vignette and article provide useful introduction.\nPatchwork is a package designed to make plot composition in R extremely simple and powerful. It is mainly intended for users of ggplot2 and goes to great lengths to make sure ggplots are properly aligned no matter the complexity of your composition. The Getting Started page explains the main features of the package.\ngganimate extends the grammar of graphics as implemented by ggplot2 to include the description of animation. It does this by providing a range of new grammar classes that can be added to the plot object in order to customise how it should change with time.\nggdist is an R package that provides a flexible set of ggplot2 geoms and stats designed especially for visualizing distributions and uncertainty. It is designed for both frequentist and [https://mjskay.github.io/ggdist/articles/freq-uncertainty-vis.html] visualization, taking the view that uncertainty visualization can be unified through the perspective of distribution visualization: for frequentist models, one visualizes confidence distributions or bootstrap distributions (see vignette(“freq-uncertainty-vis”)); for Bayesian models, one visualizes probability distributions (see the tidybayes package, which builds on top of ggdist)."
+  },
+  {
+    "objectID": "R4Vis.html#interactive-data-visualisation-with-r",
+    "href": "R4Vis.html#interactive-data-visualisation-with-r",
+    "title": "R for Visual Analytics",
+    "section": "Interactive Data Visualisation with R",
+    "text": "Interactive Data Visualisation with R\n\nplotly R\n\nplotly: Create Interactive Web Graphics via ‘plotly.js’\nInteractive web-based data visualization with R, plotly, and shiny\nPlotly R Open Source Graphing Library\nGetting Started with Plotly and ggplot2\n\n\n\nggigraph\n\nggigraph lets R users to make ggplot interactive."
+  },
+  {
+    "objectID": "R4Vis.html#other-r-graphics-packages",
+    "href": "R4Vis.html#other-r-graphics-packages",
+    "title": "R for Visual Analytics",
+    "section": "Other R graphics packages",
+    "text": "Other R graphics packages\n\ncorrplot. A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering. In addition, corrplot is good at details, including choosing color, text labels, color labels, layout, etc.\ncorrgram calculates correlation of variables and displays the results graphically. Included panel functions can display points, shading, ellipses, and correlation values with confidence intervals. [https://cran.r-project.org/web/packages/corrgram/index.html]\nvcd, Visualization techniques, data sets, summary and inference procedures aimed particularly at categorical data. Special emphasis is given to highly extensible grid graphics.\ntmap offers a flexible, layer-based, and easy to use approach to create thematic maps, such as choropleths and bubble maps."
   }
 ]
