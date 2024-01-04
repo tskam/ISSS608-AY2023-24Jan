@@ -23,13 +23,14 @@ editor: visual
 
 ## Lesson Slides and Hands-on Notes
 
--   Lesson slides in [html](../lesson/Lesson04/Lesson04-Fundamentals%20of%20Visual%20Analytics.html) and [pdf](../lesson/Lesson04/Lesson04-Fundamentals%20of%20Visual%20Analytics.pdf) formats
+-   [Lesson 4: Fundamentals of Visual Analytics](../lesson/Lesson04/Lesson04-Fundamentals%20of%20Visual%20Analytics.html) slides
 
--   Handout of Hands-on Exercise 4
+-   Hands-on Exercises
 
-    -   [Hands-on Exercise 4: Visual Statistical Analysis](../Hands-on_Ex/Hands-on_Ex04/Hands-on_Ex04-Visual%20Statistical%20Analysis.html)
-    -   [Hands-on Exercise 4: Visualising Uncertainty](../Hands-on_Ex/Hands-on_Ex04/Hands-on_Ex04-Visual_Uncertainty.html)
-    -   [Hands-on Exercise 4: Building Funnel Plot with R](../Hands-on_Ex/Hands-on_Ex04/Hands-on_Ex04-Funnel_Plot.html)
+    -   [Hands-on Exercise 4: Visualising Distribution](https://r4va.netlify.app/chap09)
+    -   [Hands-on Exercise 4: Visual Statistical Analysis](https://r4va.netlify.app/chap10)
+    -   [Hands-on Exercise 4: Visualising Uncertainty](https://r4va.netlify.app/chap11)
+    -   [Hands-on Exercise 4: Building Funnel Plot with R](https://r4va.netlify.app/chap12)
 
 ## Readings on Visualising Uncertainty
 
