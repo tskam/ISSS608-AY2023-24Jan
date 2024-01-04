@@ -22,7 +22,7 @@ editor: visual
 
 Hands-on Exercises:
 
--   [Hands-on Exercise 7: Choropleth Mapping in R](Choropleth Mapping with R)
+-   [Hands-on Exercise 7: Choropleth Mapping in R](https://r4va.netlify.app/chap21)
 -   [Hands-on Exercise 7: Visualising Geospatial Point Data](https://r4va.netlify.app/chap22)
 -   [Hands-on Exercise 7: Analytical Mapping](https://r4va.netlify.app/chap23).
 
