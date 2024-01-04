@@ -529,7 +529,7 @@
     "href": "outline/Lesson05_outline.html#lesson-slides-and-hands-on-notes",
     "title": "Lesson 5: Visual Multivariate Analysis",
     "section": "Lesson Slides and Hands-on Notes",
-    "text": "Lesson Slides and Hands-on Notes\n\nLesson slides in html and pdf formats\nHandout of Hands-on Exercise 5\n\nBuilding Ternary Plot with R.\nVisualising Correlation Matrices with R.\nBuilding Heatmap for Visualising and Analysing Multivariate Data.\nBuilding Parallel Coordinates Plot with R.\nBuilding Treemap Visualisation with R"
+    "text": "Lesson Slides and Hands-on Notes\n\nLesson 5: Visual Multivariate Analysis slides\nHands-on Exercises\n\nBuilding Ternary Plot with R.\nVisual Correlation Analysis.\nVisual Multivariate Analysis with Heatmap.\nVisual Multivariate Analysis with Parallel Coordinates Plot.\nTreemap Visualisation with R"
   },
   {
     "objectID": "outline/Lesson05_outline.html#readings",

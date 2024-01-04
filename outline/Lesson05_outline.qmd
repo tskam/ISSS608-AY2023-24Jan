@@ -21,15 +21,15 @@ editor: visual
 
 ## Lesson Slides and Hands-on Notes
 
--   Lesson slides in [html](../lesson/Lesson05/Lesson05-VMA.html) and [pdf](../lesson/Lesson05/Lesson05-VMA.pdf) formats
+-   [Lesson 5: Visual Multivariate Analysis](../lesson/Lesson05/Lesson05-VMA.html) slides
 
--   Handout of Hands-on Exercise 5
+-   Hands-on Exercises
 
-    -   [Building Ternary Plot with R](../Hands-on_Ex/Hands-on_Ex05/Hands-on_Ex05-ternary.html).
-    -   [Visualising Correlation Matrices with R](../Hands-on_Ex/Hands-on_Ex05/Hands-on_Ex05-Corrgram.html).
-    -   [Building Heatmap for Visualising and Analysing Multivariate Data](../Hands-on_Ex/Hands-on_Ex05/Hands-on_Ex05-Heatmap.html).
-    -   [Building Parallel Coordinates Plot with R](../Hands-on_Ex/Hands-on_Ex05/Hands-on_Ex05-pcp.html).
-    -   [Building Treemap Visualisation with R](../Hands-on_Ex/Hands-on_Ex05/Hands-on_Ex05-Treemap.html)
+    -   [Building Ternary Plot with R](https://r4va.netlify.app/chap13).
+    -   [Visual Correlation Analysis](https://r4va.netlify.app/chap06).
+    -   [Visual Multivariate Analysis with Heatmap](https://r4va.netlify.app/chap14).
+    -   [Visual Multivariate Analysis with Parallel Coordinates Plot](https://r4va.netlify.app/chap15).
+    -   [Treemap Visualisation with R](https://r4va.netlify.app/chap16)
 
 ## Readings
 
