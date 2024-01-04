@@ -14,9 +14,9 @@ editor: visual
 
 ## Lesson Slides and Hands-on Notes
 
--   Lesson slides in [html](../lesson/Lesson03/Lesson03-Interactivity%20in%20Visual%20Analytics.html) and [pdf](../lesson/Lesson03/Lesson03-Interactivity%20in%20Visual%20Analytics.pdf) formats
-
--   Handout of Hands-on Exercise 3 in [html](../hands-on_ex/Hands-on_Ex03/Hands-on_Ex03-Programming%20Interactive%20Visualisation.html) format.
+-   [Lesson 3:Interactivity in Visual Analytics](../lesson/Lesson03/Lesson03-Interactivity%20in%20Visual%20Analytics.html)
+-   [Hands-on Exercise 3: Programming Interactive Data Visualisation with R](https://r4va.netlify.app/chap03)
+-   [Hands-on Exercise 3: Programming Animated Statistical Graphics with R](https://r4va.netlify.app/chap04)
 
 ## Readings
 
