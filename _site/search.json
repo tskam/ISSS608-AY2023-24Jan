@@ -1881,5 +1881,152 @@
     "title": "Lesson 9: Information Dashboard Design",
     "section": "References",
     "text": "References\nBullet Chart & Sparklines\n\nBullet graph @wiki\nBullet Graph Design Specification\nSparkline theory and practice\nBest Practices for Scaling Sparklines in Dashboard\nIntroducing Bandlines"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#isss608-visual-analytics-and-applications",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#isss608-visual-analytics-and-applications",
+    "title": "Lesson10: The Epilogue",
+    "section": "ISSS608: Visual Analytics and Applications",
+    "text": "ISSS608: Visual Analytics and Applications"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#motivation-of-visual-analytics",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#motivation-of-visual-analytics",
+    "title": "Lesson10: The Epilogue",
+    "section": "Motivation of Visual Analytics",
+    "text": "Motivation of Visual Analytics\nThe World is full of charts that lie!\n\nWe need to get smarter about visual information"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#motivation-of-visual-analytics-1",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#motivation-of-visual-analytics-1",
+    "title": "Lesson10: The Epilogue",
+    "section": "Motivation of Visual Analytics",
+    "text": "Motivation of Visual Analytics\nIs there a place for Visual Analytics in knowledge discovery?"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#what-is-visual-analytics",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#what-is-visual-analytics",
+    "title": "Lesson10: The Epilogue",
+    "section": "What is Visual Analytics?",
+    "text": "What is Visual Analytics?\nVisual Analytics must be Reprducible\n\nReference: Ten Simple Rules for Reproducible Computational Research"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder",
+    "title": "Lesson10: The Epilogue",
+    "section": "A Gentle Reminder",
+    "text": "A Gentle Reminder\nData Visualization: Clarity or Aesthetics?"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-1",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-1",
+    "title": "Lesson10: The Epilogue",
+    "section": "A Gentle Reminder",
+    "text": "A Gentle Reminder\nAvoiding junk charts"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-2",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-2",
+    "title": "Lesson10: The Epilogue",
+    "section": "A Gentle Reminder",
+    "text": "A Gentle Reminder\nAvoiding junk charts"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-3",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-3",
+    "title": "Lesson10: The Epilogue",
+    "section": "A Gentle Reminder",
+    "text": "A Gentle Reminder\nAvoiding junk charts"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-4",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-4",
+    "title": "Lesson10: The Epilogue",
+    "section": "A Gentle Reminder",
+    "text": "A Gentle Reminder\nAvoiding junk charts"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-5",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-5",
+    "title": "Lesson10: The Epilogue",
+    "section": "A Gentle Reminder",
+    "text": "A Gentle Reminder\nAvoiding junk charts"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-6",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-6",
+    "title": "Lesson10: The Epilogue",
+    "section": "A Gentle Reminder",
+    "text": "A Gentle Reminder\nAvoiding junk charts"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-7",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-7",
+    "title": "Lesson10: The Epilogue",
+    "section": "A Gentle Reminder",
+    "text": "A Gentle Reminder\nAvoiding junk charts"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-8",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-8",
+    "title": "Lesson10: The Epilogue",
+    "section": "A Gentle Reminder",
+    "text": "A Gentle Reminder\nShow the world the good visual design priciples"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-9",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#a-gentle-reminder-9",
+    "title": "Lesson10: The Epilogue",
+    "section": "A Gentle Reminder",
+    "text": "A Gentle Reminder\nShow the world the good visual design priciples"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#the-bumper-ride-of-r-rollercoaster",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#the-bumper-ride-of-r-rollercoaster",
+    "title": "Lesson10: The Epilogue",
+    "section": "The bumper ride of R rollercoaster",
+    "text": "The bumper ride of R rollercoaster"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#the-bumper-ride-of-r-rollercoaster-1",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#the-bumper-ride-of-r-rollercoaster-1",
+    "title": "Lesson10: The Epilogue",
+    "section": "The bumper ride of R rollercoaster",
+    "text": "The bumper ride of R rollercoaster"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#the-bumper-ride-of-r-rollercoaster-2",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#the-bumper-ride-of-r-rollercoaster-2",
+    "title": "Lesson10: The Epilogue",
+    "section": "The bumper ride of R rollercoaster",
+    "text": "The bumper ride of R rollercoaster"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#the-bumper-ride-of-r-rollercoaster-3",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#the-bumper-ride-of-r-rollercoaster-3",
+    "title": "Lesson10: The Epilogue",
+    "section": "The bumper ride of R rollercoaster",
+    "text": "The bumper ride of R rollercoaster"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#the-bumper-ride-of-r-rollercoaster-4",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#the-bumper-ride-of-r-rollercoaster-4",
+    "title": "Lesson10: The Epilogue",
+    "section": "The bumper ride of R rollercoaster",
+    "text": "The bumper ride of R rollercoaster"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#time-to-say-goodbye",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#time-to-say-goodbye",
+    "title": "Lesson10: The Epilogue",
+    "section": "Time to Say Goodbye",
+    "text": "Time to Say Goodbye\n\n\nLet’s Build a Better World with Visual Analytics"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-The_Epilogue.html#things-end-but-memories-last-forever",
+    "href": "lesson/Lesson10/Lesson10-The_Epilogue.html#things-end-but-memories-last-forever",
+    "title": "Lesson10: The Epilogue",
+    "section": "Things end but memories last forever!",
+    "text": "Things end but memories last forever!"
   }
 ]
