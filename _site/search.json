@@ -2270,42 +2270,42 @@
   {
     "objectID": "lesson/Lesson09/Lesson09-TextVis.html#introduction-to-text-visualisation",
     "href": "lesson/Lesson09/Lesson09-TextVis.html#introduction-to-text-visualisation",
-    "title": "Lesson 10: Information Dashboard Design",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
     "section": "Introduction to Text Visualisation",
     "text": "Introduction to Text Visualisation\nHistory of text"
   },
   {
     "objectID": "lesson/Lesson09/Lesson09-TextVis.html#content",
     "href": "lesson/Lesson09/Lesson09-TextVis.html#content",
-    "title": "Lesson 10: Information Dashboard Design",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
     "section": "Content",
     "text": "Content\n\nIntroduction Text Visualisation\n\nText data\n\nText Visualisation Methods\n\nTag Cloud\nWordle\nWord Tree\nPhrase Nets\n\nR Packages for Text Visualisation"
   },
   {
     "objectID": "lesson/Lesson09/Lesson09-TextVis.html#text-visualisation-methods",
     "href": "lesson/Lesson09/Lesson09-TextVis.html#text-visualisation-methods",
-    "title": "Lesson 10: Information Dashboard Design",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
     "section": "Text Visualisation Methods",
     "text": "Text Visualisation Methods\n\nTag Cloud\nWordle\nWord Tree\nPhrase Nets"
   },
   {
     "objectID": "lesson/Lesson09/Lesson09-TextVis.html#wordle",
     "href": "lesson/Lesson09/Lesson09-TextVis.html#wordle",
-    "title": "Lesson 10: Information Dashboard Design",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
     "section": "Wordle",
     "text": "Wordle\n\nA toy for generating “word clouds” from text that you provide"
   },
   {
     "objectID": "lesson/Lesson09/Lesson09-TextVis.html#r-packages-for-text-visualisation",
     "href": "lesson/Lesson09/Lesson09-TextVis.html#r-packages-for-text-visualisation",
-    "title": "Lesson 10: Information Dashboard Design",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
     "section": "R packages for Text Visualisation",
     "text": "R packages for Text Visualisation\n\nggwordcloud: a word cloud geom for ggplot2\nTextPlot: An R package for Visualizing Text Data\ncorporaexplorer: An R package for dynamic exploration of text collections\nLDAvis: An R package for interactive topic model visualization"
   },
   {
     "objectID": "lesson/Lesson09/Lesson09-TextVis.html#references",
     "href": "lesson/Lesson09/Lesson09-TextVis.html#references",
-    "title": "Lesson 10: Information Dashboard Design",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
     "section": "References",
     "text": "References\nCao, Nan and Cui, Weiwei (2016) Introduction to text visualization, Springer. This book is available at smu e-collection."
   },
