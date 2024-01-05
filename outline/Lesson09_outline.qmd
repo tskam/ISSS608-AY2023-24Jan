@@ -18,19 +18,15 @@ editor: visual
     -   LDAVis
     -   quanteda
 
-
 ## Lesson Slides and Hands-on Notes
 
--   [Lesson 10: Visualising and Analysing Text Data](../lesson/Lesson10/Lesson10-TextVis.html) slides.
--   [Lesson 10: The Epilogue](../lesson/Lesson10/Lesson10-The_Epilogue.html) slides.
+-   [Lesson 9: Visualising and Analysing Text Data](../lesson/Lesson09/Lesson09-TextVis.html) slides.
 
--   [Hands-on Exercise 10: Visualising and Analysing Text Data]().
+-   [Hands-on Exercise 9: Visualising and Analysing Text Data]().
 
 ## Readings
 
 ### Core Readings
 
 -   [Fun with Text Visualization](http://campusguides.lib.utah.edu/content.php?pid=78288&sid=579667)
--   [The pros and cons of word clouds as visualizations](https://www.visioncritical.com/pros-and-cons-word-clouds-visualizations/)  
-
-
+-   [The pros and cons of word clouds as visualizations](https://www.visioncritical.com/pros-and-cons-word-clouds-visualizations/)

@@ -21,6 +21,9 @@ editor: visual
 
 -   [Hands-on Exercise 10: Information Dashboard Design: R methods](https://r4va.netlify.app/chap31).
 
+-   [The Epilogue](../lesson/Epilogue/The_Epilogue.html) slides.
+
+
 ## Reference
 
 ### Core Readings
