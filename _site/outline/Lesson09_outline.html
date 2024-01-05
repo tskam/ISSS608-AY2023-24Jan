@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ISSS608 - Lesson 9: Information Dashboard Design</title>
+<title>ISSS608 - Lesson 9: Visualising and Analysing Text Data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -195,11 +195,6 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#content" id="toc-content" class="nav-link active" data-scroll-target="#content">Content</a></li>
   <li><a href="#lesson-slides-and-hands-on-notes" id="toc-lesson-slides-and-hands-on-notes" class="nav-link" data-scroll-target="#lesson-slides-and-hands-on-notes">Lesson Slides and Hands-on Notes</a></li>
-  <li><a href="#reference" id="toc-reference" class="nav-link" data-scroll-target="#reference">Reference</a>
-  <ul class="collapse">
-  <li><a href="#core-readings" id="toc-core-readings" class="nav-link" data-scroll-target="#core-readings">Core Readings</a></li>
-  <li><a href="#additional-readings" id="toc-additional-readings" class="nav-link" data-scroll-target="#additional-readings">Additional Readings</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -208,7 +203,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lesson 9: Information Dashboard Design</h1>
+<h1 class="title">Lesson 9: Visualising and Analysing Text Data</h1>
 </div>
 
 
@@ -220,7 +215,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">January 4, 2024</p>
+      <p class="date-modified">January 5, 2024</p>
     </div>
   </div>
     
@@ -232,50 +227,31 @@ ul.task-list li input[type="checkbox"] {
 <section id="content" class="level2">
 <h2 class="anchored" data-anchor-id="content">Content</h2>
 <ul>
-<li>Introducing information dashboard</li>
-<li>Information dashboard design best practices</li>
-<li>Common mistakes in dashboard design</li>
-<li>Ideal graphs for information dashboard
+<li>Introduction to text data and text visualisation</li>
+<li>Text Visualisation methods:
 <ul>
-<li>Bullet graph</li>
-<li>Sparklines</li>
-<li>Bandlines</li>
+<li>Tag Cloud</li>
+<li>Wordle</li>
+<li>Word Tree</li>
+<li>Phrase Nets</li>
+</ul></li>
+<li>Text Visualisation in R
+<ul>
+<li>textplot</li>
+<li>LDAVis</li>
+<li>quanteda</li>
 </ul></li>
 </ul>
 </section>
 <section id="lesson-slides-and-hands-on-notes" class="level2">
 <h2 class="anchored" data-anchor-id="lesson-slides-and-hands-on-notes">Lesson Slides and Hands-on Notes</h2>
 <ul>
-<li><p><a href="../lesson/Lesson09/Lesson09-IDD.html">Lesson 9: Information Dashboard Design</a> slides.</p></li>
-<li><p><a href="https://r4va.netlify.app/chap31">Hands-on Exercise 9: Information Dashboard Design: R methods</a>.</p></li>
-</ul>
-</section>
-<section id="reference" class="level2">
-<h2 class="anchored" data-anchor-id="reference">Reference</h2>
-<section id="core-readings" class="level3">
-<h3 class="anchored" data-anchor-id="core-readings">Core Readings</h3>
-<ul>
-<li><a href="http://www.perceptualedge.com/articles/misc/Bullet_Graph_Design_Spec.pdf">Bullet Graph Design Specification</a></li>
-</ul>
-</section>
-<section id="additional-readings" class="level3">
-<h3 class="anchored" data-anchor-id="additional-readings">Additional Readings</h3>
-<ul>
-<li><a href="http://www.perceptualedge.com/articles/ie/dashboard_confusion.pdf">Dashboard Confusion</a></li>
-<li><a href="http://www.perceptualedge.com/articles/visual_business_intelligen%20ce/dboard_confusion_revisited.pdf">Dashboard Confusion Revisited</a></li>
-<li><a href="http://www.perceptualedge.com/articles/visual_business_intelligence/dd_for_rapid_monitoring.pdf">Dashboard Design for Rich and Rapid Monitoring</a></li>
-<li><a href="http://www.perceptualedge.com/articles/visual_business_intelligence/pervasive_hurdles_to_dd.pdf">Pervasive Hurdles to Effective Dashboard Design</a></li>
-<li><a href="http://www.perceptualedge.com/blog/?p=672">Assessing the Effectiveness of a New Dashboard’s Design</a></li>
-<li><a href="https://static1.squarespace.com/static/52f42657e4b0b3416ff6b831/t/55b9117ae4b060a0d84fef15/1438191994754/Dashboards_People_Love_To_Use_Whitepaper_v2.pdf">Guide to Creating Dashboards People Love</a></li>
-<li><a href="http://www.perceptualedge.com/articles/dmreview/dashboard_design.pdf">Dashboard Design: Taking a Metaphor Too Far</a></li>
-<li><a href="http://www.perceptualedge.com/articles/misc/WhyMostDashboardsFail.pdf">Why Most Dashboards Fail</a></li>
-<li><a href="http://www.perceptualedge.com/blog/?p=832">Patent Failure: The USPTO’s Oversized but Undernourished New Dashboard</a></li>
-<li><a href="http://www.perceptualedge.com/blog/?p=784">Oracle-Have you no shame?</a></li>
-<li><a href="http://www.perceptualedge.com/blog/?p=756">The Vicious Cycle of Data Impoverishment</a></li>
+<li><p><a href="../lesson/Lesson10/Lesson10-TextVis.html">Lesson 10: Visualising and Analysing Text Data</a> slides.</p></li>
+<li><p><a href="../lesson/Lesson10/Lesson10-The_Epilogue.html">Lesson 10: The Epilogue</a> slides.</p></li>
+<li><p><a href="">Hands-on Exercise 10: Visualising and Analysing Text Data</a>.</p></li>
 </ul>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

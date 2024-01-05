@@ -1,5 +1,5 @@
 ---
-title: "It's About Time"
+title: "Visualising and Analysing Time-Oriented Data"
 date: "30 December 2022"
 date-modified: "last-modified"
 format: html

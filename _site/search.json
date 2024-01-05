@@ -88,7 +88,7 @@
     "href": "lesson.html",
     "title": "Lesson Plan",
     "section": "",
-    "text": "Lesson\nDate\nVenue\nTopic\nRemarks\n\n\n\n\n1\n13/1\nSOE/SCIS2 SR B1-2\nIntroduction to Visual Analytics\n\n\n\n2\n20/1\nSOE/SCIS2 SR B1-2\nDesigning Graphs to Enlighten\n\n\n\n3\n27/1\nSOE/SCIS2 SR B1-2\nInteractivity in Visual Analytics\n\n\n\n4\n3/2\nSOE/SCIS2 SR B1-2\nFundamentals of Visual Analytics\n\n\n\n5\n17/2\nSOE/SCIS2 SR B1-2\nVisual Multivariate Analysis\n\n\n\n6\n24/2\nSOE/SCIS2 SR B1-2\nIt’s About Time\n\n\n\n7\n2/3\nTBC\nVisualising and Analysing Geographic Data\nReplacing Lunar New Year holiday\n\n\n8\n9/3\nSOE/SCIS2 SR B1-2\nNetwork Data Visualisation and Analysis\n\n\n\n9\n16/3\nSOE/SCIS2 SR B1-2\nInformation Dashboard Design\n\n\n\n10\n23/3\nSOE/SCIS2 SR B1-2\nVisual Analytics of Financial Data\n\n\n\n11\n30/3\nTBC\nPoster Presentation"
+    "text": "Lesson\nDate\nVenue\nTopic\nRemarks\n\n\n\n\n1\n13/1\nSOE/SCIS2 SR B1-2\nIntroduction to Visual Analytics\n\n\n\n2\n20/1\nSOE/SCIS2 SR B1-2\nDesigning Graphs to Enlighten\n\n\n\n3\n27/1\nSOE/SCIS2 SR B1-2\nInteractivity in Visual Analytics\n\n\n\n4\n3/2\nSOE/SCIS2 SR B1-2\nFundamentals of Visual Analytics\n\n\n\n5\n17/2\nSOE/SCIS2 SR B1-2\nVisual Multivariate Analysis\n\n\n\n6\n24/2\nSOE/SCIS2 SR B1-2\nVisualising and Analysing Time-Oriented Data\n\n\n\n7\n2/3\nTBC\nVisualising and Analysing Geographic Data\nReplacing Lunar New Year holiday\n\n\n8\n9/3\nSOE/SCIS2 SR B1-2\nNetwork Data Visualisation and Analysis\n\n\n\n9\n16/3\nSOE/SCIS2 SR B1-2\nVisualising and Analysing Text Data\n\n\n\n10\n23/3\nSOE/SCIS2 SR B1-2\nInformation Dashboard Design\n\n\n\n11\n30/3\nTBC\nPoster Presentation"
   },
   {
     "objectID": "Quarto.html",
@@ -548,35 +548,35 @@
   {
     "objectID": "outline/Lesson06_outline.html",
     "href": "outline/Lesson06_outline.html",
-    "title": "It’s About Time",
+    "title": "Visualising and Analysing Time-Oriented Data",
     "section": "",
     "text": "Characteristics of time-series data\nA short visual history of time-series graphs\nTime-series patterns\nTime-series data visualization Methods\n\nLine graph\nControl chart\nSlopegraph\nCycle plot\nHorizon graph\nSunburst diagram\nCalendar Heatmap\nStream Graph\n\nInteractive techniques for time-series data visualisation\nAnimation techniques for time-series visualisation"
   },
   {
     "objectID": "outline/Lesson06_outline.html#lesson-content",
     "href": "outline/Lesson06_outline.html#lesson-content",
-    "title": "It’s About Time",
+    "title": "Visualising and Analysing Time-Oriented Data",
     "section": "",
     "text": "Characteristics of time-series data\nA short visual history of time-series graphs\nTime-series patterns\nTime-series data visualization Methods\n\nLine graph\nControl chart\nSlopegraph\nCycle plot\nHorizon graph\nSunburst diagram\nCalendar Heatmap\nStream Graph\n\nInteractive techniques for time-series data visualisation\nAnimation techniques for time-series visualisation"
   },
   {
     "objectID": "outline/Lesson06_outline.html#lesson-slides-and-hands-on-notes",
     "href": "outline/Lesson06_outline.html#lesson-slides-and-hands-on-notes",
-    "title": "It’s About Time",
+    "title": "Visualising and Analysing Time-Oriented Data",
     "section": "Lesson Slides and Hands-on Notes",
     "text": "Lesson Slides and Hands-on Notes\n\nLesson 6:Visualising and Analysing Time-Oriented Data slides.\nHands-on Exercise 6: Visualising and Analysing Time-oriented Data ."
   },
   {
     "objectID": "outline/Lesson06_outline.html#readings",
     "href": "outline/Lesson06_outline.html#readings",
-    "title": "It’s About Time",
+    "title": "Visualising and Analysing Time-Oriented Data",
     "section": "Readings",
     "text": "Readings\n\nCore Readings\n\nA taxonomy of temporal data visualization techniques\nEdward Tufte’s “Slopegraphs”\nIntroduction to Cycle Plots\nVisualizing Change: An Innovation in Time-Series Analysis\nThe Development of the Horizon Graph\n\n\n\nAdditional Readings\n\nwhat is a slopegraph?\nSlopegraph Update\nTime on the Horizon\nTimeSearcher\nWhat is a slopegraph?\nDonahue, Rafe M.J. Fundamental Statistical Concepts in Presenting Data: Principles for Constructing Better Graphics. This article provide a real world example of building truthful and functional time series graph.\nHockey stick graph at wiki.\nMichael E. Mann, Raymond S. Bradley, Malcolm K. Hughes (1999) “Northern hemisphere temperatures during the past millennium: Inferences, uncertainties, and limitations”. Geophysical Research Letters, Vol. 26, No. pp. 759-762.\nThe Guardian (2010) “Hockey stick graph took pride of place in IPCC report, despite doubts”."
   },
   {
     "objectID": "outline/Lesson06_outline.html#all-about-tableau",
     "href": "outline/Lesson06_outline.html#all-about-tableau",
-    "title": "It’s About Time",
+    "title": "Visualising and Analysing Time-Oriented Data",
     "section": "All About Tableau",
     "text": "All About Tableau\n\nSlopegraphs in Tableau\nHorizon Graph\nViz Variety Show: When to use heatmap calendars"
   },
@@ -660,23 +660,23 @@
   {
     "objectID": "outline/Lesson09_outline.html",
     "href": "outline/Lesson09_outline.html",
-    "title": "Lesson 9: Information Dashboard Design",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
     "section": "",
-    "text": "Introducing information dashboard\nInformation dashboard design best practices\nCommon mistakes in dashboard design\nIdeal graphs for information dashboard\n\nBullet graph\nSparklines\nBandlines"
+    "text": "Introduction to text data and text visualisation\nText Visualisation methods:\n\nTag Cloud\nWordle\nWord Tree\nPhrase Nets\n\nText Visualisation in R\n\ntextplot\nLDAVis\nquanteda"
   },
   {
     "objectID": "outline/Lesson09_outline.html#content",
     "href": "outline/Lesson09_outline.html#content",
-    "title": "Lesson 9: Information Dashboard Design",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
     "section": "",
-    "text": "Introducing information dashboard\nInformation dashboard design best practices\nCommon mistakes in dashboard design\nIdeal graphs for information dashboard\n\nBullet graph\nSparklines\nBandlines"
+    "text": "Introduction to text data and text visualisation\nText Visualisation methods:\n\nTag Cloud\nWordle\nWord Tree\nPhrase Nets\n\nText Visualisation in R\n\ntextplot\nLDAVis\nquanteda"
   },
   {
     "objectID": "outline/Lesson09_outline.html#lesson-slides-and-hands-on-notes",
     "href": "outline/Lesson09_outline.html#lesson-slides-and-hands-on-notes",
-    "title": "Lesson 9: Information Dashboard Design",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
     "section": "Lesson Slides and Hands-on Notes",
-    "text": "Lesson Slides and Hands-on Notes\n\nLesson 9: Information Dashboard Design slides.\nHands-on Exercise 9: Information Dashboard Design: R methods."
+    "text": "Lesson Slides and Hands-on Notes\n\nLesson 10: Visualising and Analysing Text Data slides.\nLesson 10: The Epilogue slides.\nHands-on Exercise 10: Visualising and Analysing Text Data."
   },
   {
     "objectID": "outline/Lesson09_outline.html#reference",
@@ -688,23 +688,23 @@
   {
     "objectID": "outline/Lesson10_outline.html",
     "href": "outline/Lesson10_outline.html",
-    "title": "Lesson 10: Visual Analytics of Financial Data",
+    "title": "Lesson 10: Information Dashboard Design",
     "section": "",
-    "text": "Introduction Financial Data\n\nTime-series financial data\n\nFinancial Data Visualisation and Analysis Methods\n\nTreemap\nHorizon Graph\nCandlestick"
+    "text": "Introducing information dashboard\nInformation dashboard design best practices\nCommon mistakes in dashboard design\nIdeal graphs for information dashboard\n\nBullet graph\nSparklines\nBandlines"
   },
   {
     "objectID": "outline/Lesson10_outline.html#content",
     "href": "outline/Lesson10_outline.html#content",
-    "title": "Lesson 10: Visual Analytics of Financial Data",
+    "title": "Lesson 10: Information Dashboard Design",
     "section": "",
-    "text": "Introduction Financial Data\n\nTime-series financial data\n\nFinancial Data Visualisation and Analysis Methods\n\nTreemap\nHorizon Graph\nCandlestick"
+    "text": "Introducing information dashboard\nInformation dashboard design best practices\nCommon mistakes in dashboard design\nIdeal graphs for information dashboard\n\nBullet graph\nSparklines\nBandlines"
   },
   {
     "objectID": "outline/Lesson10_outline.html#lesson-slides-and-hands-on-notes",
     "href": "outline/Lesson10_outline.html#lesson-slides-and-hands-on-notes",
-    "title": "Lesson 10: Visual Analytics of Financial Data",
+    "title": "Lesson 10: Information Dashboard Design",
     "section": "Lesson Slides and Hands-on Notes",
-    "text": "Lesson Slides and Hands-on Notes\n\nLesson slides in html and pdf formats\nHandout of Hands-on Exercise 10 in html format."
+    "text": "Lesson Slides and Hands-on Notes\n\nLesson 10: Information Dashboard Design slides.\nHands-on Exercise 10: Information Dashboard Design: R methods."
   },
   {
     "objectID": "lesson/Lesson01/Lesson01-VAA.html#motivation-of-visual-analytics",
@@ -2028,5 +2028,82 @@
     "title": "Lesson10: The Epilogue",
     "section": "Things end but memories last forever!",
     "text": "Things end but memories last forever!"
+  },
+  {
+    "objectID": "outline/Lesson10_outline.html#reference",
+    "href": "outline/Lesson10_outline.html#reference",
+    "title": "Lesson 10: Information Dashboard Design",
+    "section": "Reference",
+    "text": "Reference\n\nCore Readings\n\nBullet Graph Design Specification\n\n\n\nAdditional Readings\n\nDashboard Confusion\nDashboard Confusion Revisited\nDashboard Design for Rich and Rapid Monitoring\nPervasive Hurdles to Effective Dashboard Design\nAssessing the Effectiveness of a New Dashboard’s Design\nGuide to Creating Dashboards People Love\nDashboard Design: Taking a Metaphor Too Far\nWhy Most Dashboards Fail\nPatent Failure: The USPTO’s Oversized but Undernourished New Dashboard\nOracle-Have you no shame?\nThe Vicious Cycle of Data Impoverishment"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-IDD.html#content",
+    "href": "lesson/Lesson10/Lesson10-IDD.html#content",
+    "title": "Lesson 10: Information Dashboard Design",
+    "section": "Content",
+    "text": "Content\n\nIntroducing information dashboard\nInformation dashboard design best practices\nCommon mistakes in dashboard design\nIdeal graphs for information dashboard\n\nBullet graph\nSparklines\nBandlines"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-IDD.html#introducing-information-dashboard",
+    "href": "lesson/Lesson10/Lesson10-IDD.html#introducing-information-dashboard",
+    "title": "Lesson 10: Information Dashboard Design",
+    "section": "Introducing information dashboard",
+    "text": "Introducing information dashboard"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-IDD.html#best-practices-for-dashboard-design",
+    "href": "lesson/Lesson10/Lesson10-IDD.html#best-practices-for-dashboard-design",
+    "title": "Lesson 10: Information Dashboard Design",
+    "section": "Best Practices for Dashboard Design",
+    "text": "Best Practices for Dashboard Design\n\n\n\nPreparing stage\n\nTarget the user\nKnow what value your dashboard will add\nDisplay only actionable information\n\nDesign stage\n\nRight tool for the right job\nContext\nLayout and clarity\nVisual aesthetics"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-IDD.html#preparing-stage-user-centered-design-process",
+    "href": "lesson/Lesson10/Lesson10-IDD.html#preparing-stage-user-centered-design-process",
+    "title": "Lesson 10: Information Dashboard Design",
+    "section": "Preparing stage: User-centered Design Process",
+    "text": "Preparing stage: User-centered Design Process\n\nReference: Developing and Applying a User-Centered Model for the Design and Implementation of Information Visualisation"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-IDD.html#ideal-graphs-for-information-dashboard-bullet-graphs",
+    "href": "lesson/Lesson10/Lesson10-IDD.html#ideal-graphs-for-information-dashboard-bullet-graphs",
+    "title": "Lesson 10: Information Dashboard Design",
+    "section": "Ideal graphs for information dashboard: Bullet Graphs",
+    "text": "Ideal graphs for information dashboard: Bullet Graphs\n\nBullet graphs to replace gauges."
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-IDD.html#ideal-graphs-for-information-dashboard-sparklines",
+    "href": "lesson/Lesson10/Lesson10-IDD.html#ideal-graphs-for-information-dashboard-sparklines",
+    "title": "Lesson 10: Information Dashboard Design",
+    "section": "Ideal graphs for information dashboard: Sparklines",
+    "text": "Ideal graphs for information dashboard: Sparklines\n\nA sparkline is a very small line chart, typically drawn without axes or coordinates.\n\n\n\nReference: Sparklines"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-IDD.html#best-practices-for-dashboard-design-1",
+    "href": "lesson/Lesson10/Lesson10-IDD.html#best-practices-for-dashboard-design-1",
+    "title": "Lesson 10: Information Dashboard Design",
+    "section": "Best Practices for Dashboard Design",
+    "text": "Best Practices for Dashboard Design\nCommon mistakes in dashboard design\n\nExceeding the boundaries of a single page\nSupplying inadequate context for the data\nDisplaying excessive detail or precision\nExposing measure indirectly\nChoosing inappropriate display media\nIntroducing meaningless variety\nUsing poorly designed display media\nEncoding quantitative data inaccurately"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-IDD.html#references",
+    "href": "lesson/Lesson10/Lesson10-IDD.html#references",
+    "title": "Lesson 10: Information Dashboard Design",
+    "section": "References",
+    "text": "References\nDashboard Design\n\nA Guide to Creating Dashboards People Love to Use\n5 Best Practices for Creating Effective Dashboards\nThe Must Do’s of Marketing Dashboards\nMaking Flow Happen\nWith Dashboards: Formatting and layout Definitely Matter\nDashboard Design for real-Time Situation Awareness"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-IDD.html#references-1",
+    "href": "lesson/Lesson10/Lesson10-IDD.html#references-1",
+    "title": "Lesson 10: Information Dashboard Design",
+    "section": "References",
+    "text": "References\nDashboard Design\n\nDashboard Design for Rich and Rapid Monitoring\nPervasive Hurdles to Effective Dashboard Design\nWhy Most Dashboards Fail\nDashboard Confusion\nDashboard Confusion Revisited\nDashboard Design for at-a-glance monitoring"
+  },
+  {
+    "objectID": "lesson/Lesson10/Lesson10-IDD.html#references-2",
+    "href": "lesson/Lesson10/Lesson10-IDD.html#references-2",
+    "title": "Lesson 10: Information Dashboard Design",
+    "section": "References",
+    "text": "References\nBullet Chart & Sparklines\n\nBullet graph @wiki\nBullet Graph Design Specification\nSparkline theory and practice\nBest Practices for Scaling Sparklines in Dashboard\nIntroducing Bandlines"
   }
 ]
