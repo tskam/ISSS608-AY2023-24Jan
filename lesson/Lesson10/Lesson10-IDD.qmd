@@ -34,7 +34,7 @@ editor: visual
 
 ## Introducing information dashboard
 
-![](img10/image10-1.jpg)
+![](img/image10-1.jpg)
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ editor: visual
 :::
 
 ::: {.column width="60%"}
-![](img10/image10-2.jpg)
+![](img/image10-2.jpg)
 :::
 :::
 
@@ -64,19 +64,19 @@ editor: visual
 
 ### Dashboards for operational purpose
 
-![](img10/image10-3.jpg)
+![](img/image10-3.jpg)
 
 ------------------------------------------------------------------------
 
 ### Dashboards for strategic purpose
 
-![](img10/image10-4.jpg)
+![](img/image10-4.jpg)
 
 ------------------------------------------------------------------------
 
 ### Dashboards for analytics purpose
 
-![](img10/image10-5.jpg)
+![](img/image10-5.jpg)
 
 ## Best Practices for Dashboard Design
 
@@ -98,13 +98,13 @@ editor: visual
 
 ### Preparing stage: Target the user
 
-![](img10/image10-6.png)
+![](img/image10-6.png)
 
 ------------------------------------------------------------------------
 
 ## Preparing stage: User-centered Design Process
 
-![](img10/image10-7.png)
+![](img/image10-7.png)
 
 Reference: [Developing and Applying a User-Centered Model for the Design and Implementation of Information Visualisation](https://ink.library.smu.edu.sg/sis_research/1479/)
 
@@ -112,7 +112,7 @@ Reference: [Developing and Applying a User-Centered Model for the Design and Imp
 
 ### Preparing stage: A User-Centric Dashboard Design Guide
 
-![](img10/image10-8.jpg)
+![](img/image10-8.jpg)
 
 ------------------------------------------------------------------------
 
@@ -120,7 +120,7 @@ Reference: [Developing and Applying a User-Centered Model for the Design and Imp
 
 **Who is my target audience?**
 
-![](img10/image10-9.png)
+![](img/image10-9.png)
 
 ------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ Reference: [Developing and Applying a User-Centered Model for the Design and Imp
 
 **What type of dashboard am I creating?**
 
-![](img10/image10-10.png)
+![](img/image10-10.png)
 
 ------------------------------------------------------------------------
 
@@ -163,7 +163,7 @@ Reference: [Developing and Applying a User-Centered Model for the Design and Imp
 :::
 
 ::: {.column width="50%"}
-![](img10/image10-12.png)
+![](img/image10-12.png)
 :::
 :::
 
@@ -173,7 +173,7 @@ Reference: [Developing and Applying a User-Centered Model for the Design and Imp
 
 **Choosing the perfect metric**
 
-![](img10/image10-13.jpg)
+![](img/image10-13.jpg)
 
 ------------------------------------------------------------------------
 
@@ -181,7 +181,7 @@ Reference: [Developing and Applying a User-Centered Model for the Design and Imp
 
 **Choosing the perfect metric**
 
-![](img10/image10-11.png)
+![](img/image10-11.png)
 
 ------------------------------------------------------------------------
 
@@ -191,7 +191,7 @@ Reference: [Developing and Applying a User-Centered Model for the Design and Imp
 
 **An assortment of typical dashboard gauges**
 
-![](img10/image10-14.png)
+![](img/image10-14.png)
 
 ------------------------------------------------------------------------
 
@@ -199,13 +199,13 @@ Reference: [Developing and Applying a User-Centered Model for the Design and Imp
 
 -   Bullet graphs to replace gauges.
 
-![](img10/image10-15.jpg)
+![](img/image10-15.jpg)
 
 ------------------------------------------------------------------------
 
 ### Bullet graph design specifications
 
-![](img10/image10-16.png)
+![](img/image10-16.png)
 
 ------------------------------------------------------------------------
 
@@ -213,7 +213,7 @@ Reference: [Developing and Applying a User-Centered Model for the Design and Imp
 
 -   A sparkline is a very small line chart, typically drawn without axes or coordinates.
 
-![](img10/image10-17.jpg){width="1089"}
+![](img/image10-17.jpg){width="1089"}
 
 ::: {style="font-size: 0.65em"}
 Reference: [Sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=000AIr)
@@ -225,7 +225,7 @@ Reference: [Sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg
 
 ::: columns
 ::: {.column width="50%"}
-![](img10/image10-18.jpg)
+![](img/image10-18.jpg)
 :::
 :::
 
@@ -235,7 +235,7 @@ Reference: [Sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg
 
 -   A graphic's width/height ratio makes a big difference in displaying data.
 
-![](img10/image10-19.jpg)
+![](img/image10-19.jpg)
 
 ------------------------------------------------------------------------
 
@@ -243,7 +243,7 @@ Reference: [Sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg
 
 -   Areas surrounding data-lines may generate unintentional optical clutter. Strong frames produce melodramatic but content-diminishing visual effects.
 
-![](img10/image10-20.jpg)
+![](img/image10-20.jpg)
 
 ------------------------------------------------------------------------
 
@@ -251,7 +251,7 @@ Reference: [Sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg
 
 -   Enriched with context
 
-![](img10/image10-21.png)
+![](img/image10-21.png)
 
 ------------------------------------------------------------------------
 
@@ -259,7 +259,7 @@ Reference: [Sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg
 
 -   Use reference line to provide context
 
-![](img10/image10-22.png)
+![](img/image10-22.png)
 
 ------------------------------------------------------------------------
 
@@ -267,7 +267,7 @@ Reference: [Sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg
 
 -   Use reference region to provide context
 
-![](img10/image10-23.jpg){fig-align="left" width="581"}
+![](img/image10-23.jpg){fig-align="left" width="581"}
 
 ::: {style="font-size: 0.65em"}
 Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/sparklines-in-ggplot2)
@@ -299,7 +299,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Exceeding the boundaries of a single page and requiring the viewer to scroll
 
-![](img10/image10-24.png)
+![](img/image10-24.png)
 
 ------------------------------------------------------------------------
 
@@ -307,7 +307,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Fragmenting data into separate screen
 
-![](img10/image10-25.png)
+![](img/image10-25.png)
 
 ------------------------------------------------------------------------
 
@@ -315,7 +315,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Displaying excessive detail or precision
 
-![](img10/image10-26.png)
+![](img/image10-26.png)
 
 ------------------------------------------------------------------------
 
@@ -323,7 +323,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Introducing meaningless variety
 
-![](img10/image10-27.png){fig-align="left"}
+![](img/image10-27.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
@@ -331,7 +331,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Arranging the data poorly
 
-![](img10/image10-28.png){fig-align="left" width="700"}
+![](img/image10-28.png){fig-align="left" width="700"}
 
 ------------------------------------------------------------------------
 
@@ -339,7 +339,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Highlighting important data ineffectively or not
 
-![](img10/image10-29.png)
+![](img/image10-29.png)
 
 ------------------------------------------------------------------------
 
@@ -347,7 +347,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Cluttering the display with useless decoration
 
-![](img10/image10-30.png)
+![](img/image10-30.png)
 
 ------------------------------------------------------------------------
 
@@ -355,7 +355,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Misusing or overusing colour
 
-![](img10/image10-31.png){fig-align="left" width="800"}
+![](img/image10-31.png){fig-align="left" width="800"}
 
 ------------------------------------------------------------------------
 
@@ -363,7 +363,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Designing an unattractive visual display
 
-![](img10/image10-32.png)
+![](img/image10-32.png)
 
 ------------------------------------------------------------------------
 
@@ -371,7 +371,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Design that failed to reveal KPIs effectively
 
-![](img10/image10-33.png){fig-align="left"}
+![](img/image10-33.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
@@ -379,7 +379,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Design that reveals KPIs effectively
 
-![](img10/image10-34.png){fig-align="left" width="600"}
+![](img/image10-34.png){fig-align="left" width="600"}
 
 ------------------------------------------------------------------------
 
@@ -387,7 +387,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Design with poor layout and clarity
 
-![](img10/image10-35.png){fig-align="left"}
+![](img/image10-35.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
@@ -395,7 +395,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Design with good layout and clarity
 
-![](img10/image10-36.png)
+![](img/image10-36.png)
 
 ------------------------------------------------------------------------
 
@@ -403,7 +403,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Design with poor visual aestheticsness
 
-![](img10/image10-37.png)
+![](img/image10-37.png)
 
 ------------------------------------------------------------------------
 
@@ -411,7 +411,7 @@ Reference: [Sparklines in ggplot2](https://stackoverflow.com/questions/35434760/
 
 -   Design with good visual aestheticsness
 
-![](img10/image10-38.png){fig-align="left" width="700"}
+![](img/image10-38.png){fig-align="left" width="700"}
 
 ## References
 
