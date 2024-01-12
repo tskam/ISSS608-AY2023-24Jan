@@ -54,41 +54,13 @@ There are no prerequisites for the class. However, students taking this course m
 
 You don't have to finish reading either one of them before lesson starts. Take your time, review them from time to time. You will find yourself learning something new each time you revisit the book.
 
-## Course Assessment
-
-The assessment for this course consists of four major components, namely:
-
--   In-class Hands-on exercise and class participation,
--   DataViz Makeover
--   Take-home exercises,
--   Visual Analytics Project.
-
-There will be no mid-term test or final examination for this course.
-
-### In-class Exercise and Class Participation
-
-A strict requirement for each class meeting is to complete the assigned readings and to try out the hands-on exercises before coming to class. Readings will be provided from the textbook on technical information and from provided documents and articles on business applications of Visual Analytics. Students are required to review the recommended readings and class exercises before coming to class. Without preparation, the learning and discussions would not be as meaningful. Student sharing of insights from readings and hands-on exercises of assigned materials in class participation will form a large part of the learning in this course.
-
-During lesson, students are required to complete a series of hands-on exercises using either Tableau or R. In general, these exercises are guided if Tableau is used. For R programming session, hands-on guides will be shared on RPubs before lesson starts. By the end of each lesson, students are required to upload their in-class exercise onto eLearn for reviewing. The exercises will be briefly reviewed after collection. Students will be given 10 points for correctly completing the exercise, 7-9 points for partially completed and correct work, and 0 points if absent. Up to 100 points can be accumulated during the term.
-
-### Take-home Exercise
-
-The take-home exercise provides students with the opportunity to revise and practice the R packages and programming skills they had learned in class at home. It is a weekly exercise. Each exercise is designed to be completed within 1.5-2 hours. The exercise is not a repetition of the in-class exercise but it requires students to be innovative and creative in applying appropriate R packages to design enlightening and yet functional data visualisation for analytics purposes.
-
-Students may work together to help one another with R programming issues and discuss the materials that constitute the take-home exercise. However, each student is required to prepare and submit the take-home exercise (including any computer work) on their own. Cheating is strictly prohibited. Cheating includes but not limited to: plagiarism and submission of work that is not the student's
-
-### Visual Analytics Project
-
-The purpose of the project is to provide students with first hand experiences on collecting, processing and analysing large business data using real world data. A project may involve developing new methods or implementing visual analytics system to support analytic tasks in specific domains. Alternatively, a project may be in the form of application development by integrating analytical tools within a visual analytics environment. Students are encouraged to focus on research topics that are relevant to their field of study. It should address a concrete visual analytics problem and should propose a novel and creative solution.
-
-For more details please refer to [Visual Analytics Project](_site/VAProject.html) page.
-
 ## Grading Summary
 
 The grading distribution of this course is as follows:
 
+-   Pre-lesson Preparation and Hands-on Exercise 20%
 -   In-class Exercise and Class Participation 20%
--   Take-home Exercise 50%
+-   Take-home Exercise 30%
 -   Visual Analytics Project 30%
     -   Project blog 15%
     -   Poster 10%
@@ -96,6 +68,38 @@ The grading distribution of this course is as follows:
     -   Artifact 50%
 
 There will be no mid-term test and final examination for this course.
+
+## Course Components
+
+The assessment for this course consists of four major components, namely:
+
+-   Pre-lesson Preparation and Hands-on Exercise
+-   In-class Exercise and Class Participation
+-   Take-home exercises
+-   Visual Analytics Project
+
+### Pre-lesson Preparation and Hands-on Exercise
+
+Pre-lesson videos/slides and recommended readings exercises will be released one week before the weekly lesson starts. A strict requirement for each class meeting is to complete the assigned readings and video before coming to class. Students are encouraged to post question or issue encountered while viewing the video or reading the recommended articles on Piazza.  Student sharing of insights from readings of assigned materials on Piazza will form a large part of the learning in this course. 
+After learning the data visuaisation concepts and methods from lesson materials, the hands-on exercises aim to provide students the opportunity to gain hands-on experience on using selected R packages. It is important for students to complete the hands-on exercises before class. This is because the in-class discussion will extend the methods learned from the hands-on exercise to  advanced modelling. 
+
+
+### In-class Exercise and Class Participation
+
+During lesson, students are required to complete a series of in-class exercises using either Tableau or R. The in-class discussion will focus on how to critic existing data visualisation and how to deliver effective visual communication.  In general, these exercises are guided interactively. By the end of each lesson, students are required to publish their in-class exercise on Tableau Public or Netlify.    
+
+### Take-home Exercise
+
+The take-home exercise provides students with the opportunity to revise and practice the R packages and programming skills they had learned in class at home. It is a weekly exercise. Each exercise is designed to be completed within 3-5 hours. The exercise is not a repetition of the in-class exercise but it requires students to be innovative and creative in applying appropriate R packages to design enlightening and yet functional data visualisation for analytics purposes.
+
+Students may work together to help one another with R programming issues and discuss the materials that constitute the take-home exercise. However, each student is required to prepare and submit the take-home exercise (including any computer work) on their own. Cheating is strictly prohibited. Cheating includes but not limited to: plagiarism and submission of work that is not the student's
+
+### Visual Analytics Project
+
+The purpose of the project is to provide students first hand experience on building **web-enabled visual analytics application** by using **Shiny**. It aims to **democratize data and analytics**. Hence, the application focuses and emphasises on interactivity and effective integration of techniques from data analytics and data visualization.
+
+For more details please refer to [Visual Analytics Project](_site/VAProject.html) page.
+
 
 ## Core Readings
 

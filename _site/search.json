@@ -60,14 +60,14 @@
     "href": "Syllabus.html#course-assessment",
     "title": "Syllabus",
     "section": "Course Assessment",
-    "text": "Course Assessment\nThe assessment for this course consists of four major components, namely:\n\nIn-class Hands-on exercise and class participation,\nDataViz Makeover\nTake-home exercises,\nVisual Analytics Project.\n\nThere will be no mid-term test or final examination for this course.\n\nIn-class Exercise and Class Participation\nA strict requirement for each class meeting is to complete the assigned readings and to try out the hands-on exercises before coming to class. Readings will be provided from the textbook on technical information and from provided documents and articles on business applications of Visual Analytics. Students are required to review the recommended readings and class exercises before coming to class. Without preparation, the learning and discussions would not be as meaningful. Student sharing of insights from readings and hands-on exercises of assigned materials in class participation will form a large part of the learning in this course.\nDuring lesson, students are required to complete a series of hands-on exercises using either Tableau or R. In general, these exercises are guided if Tableau is used. For R programming session, hands-on guides will be shared on RPubs before lesson starts. By the end of each lesson, students are required to upload their in-class exercise onto eLearn for reviewing. The exercises will be briefly reviewed after collection. Students will be given 10 points for correctly completing the exercise, 7-9 points for partially completed and correct work, and 0 points if absent. Up to 100 points can be accumulated during the term.\n\n\nTake-home Exercise\nThe take-home exercise provides students with the opportunity to revise and practice the R packages and programming skills they had learned in class at home. It is a weekly exercise. Each exercise is designed to be completed within 1.5-2 hours. The exercise is not a repetition of the in-class exercise but it requires students to be innovative and creative in applying appropriate R packages to design enlightening and yet functional data visualisation for analytics purposes.\nStudents may work together to help one another with R programming issues and discuss the materials that constitute the take-home exercise. However, each student is required to prepare and submit the take-home exercise (including any computer work) on their own. Cheating is strictly prohibited. Cheating includes but not limited to: plagiarism and submission of work that is not the student’s\n\n\nVisual Analytics Project\nThe purpose of the project is to provide students with first hand experiences on collecting, processing and analysing large business data using real world data. A project may involve developing new methods or implementing visual analytics system to support analytic tasks in specific domains. Alternatively, a project may be in the form of application development by integrating analytical tools within a visual analytics environment. Students are encouraged to focus on research topics that are relevant to their field of study. It should address a concrete visual analytics problem and should propose a novel and creative solution.\nFor more details please refer to Visual Analytics Project page."
+    "text": "Course Assessment\nThe assessment for this course consists of four major components, namely:\n\nPre-lesson Preparation and Hands-on Exercise (20%)\nIn-class Exercise and Class Participation (20%)\nTake-home exercises (30%)\nVisual Analytics Project (30%)\n\nThere will be no mid-term test or final examination for this course.\n\nPre-lesson Preparation and Hands-on Exercise (20%)\nPre-lesson videos/slides and recommended readings exercises will be released one week before the weekly lesson starts. A strict requirement for each class meeting is to complete the assigned readings and video before coming to class. Students are required write down at least one question or issue encountered while viewing the video or reading the recommended articles and raised them during the in-class discussion.\nStudent sharing of insights from readings of assigned materials in class participation will form a large part of the learning in this course. Students may also be quizzed in class and thereby contribute to class participation.\nHands-on exercises aim to provide students to gain hands-on experience on using selected R packages to perform geospatial analysis with real world use cases. It is important for students to complete the hands-on exercises before class. This is because the in-class discussion will extend the methods learned from the hands-on exercise to advanced modelling. The in-class discussion will also focus on how to interpret the analysis results and to communicate the analysis results by using appropriate map and data visualisation techniques.\n\n\nIn-class Exercise and Class Participation\nDuring lesson, students are required to complete a series of in-class exercises using either Tableau or R. In general, these exercises are guided interactively. By the end of each lesson, students are required to publish their in-class exercise on Tableau Public or Netlify. The in-class exercises will be briefly reviewed after collection. Students will be given a B grade for correctly completing the in-class exercise. B+ grade and above will be given to submission with additional editorial and commenting efforts.\n\n\nTake-home Exercise\nThe take-home exercise provides students with the opportunity to revise and practice the R packages and programming skills they had learned in class at home. It is a weekly exercise. Each exercise is designed to be completed within 1.5-2 hours. The exercise is not a repetition of the in-class exercise but it requires students to be innovative and creative in applying appropriate R packages to design enlightening and yet functional data visualisation for analytics purposes.\nStudents may work together to help one another with R programming issues and discuss the materials that constitute the take-home exercise. However, each student is required to prepare and submit the take-home exercise (including any computer work) on their own. Cheating is strictly prohibited. Cheating includes but not limited to: plagiarism and submission of work that is not the student’s\n\n\nVisual Analytics Project\nThe purpose of the project is to provide students with first hand experiences on collecting, processing and analysing large business data using real world data. A project may involve developing new methods or implementing visual analytics system to support analytic tasks in specific domains. Alternatively, a project may be in the form of application development by integrating analytical tools within a visual analytics environment. Students are encouraged to focus on research topics that are relevant to their field of study. It should address a concrete visual analytics problem and should propose a novel and creative solution.\nFor more details please refer to Visual Analytics Project page."
   },
   {
     "objectID": "Syllabus.html#grading-summary",
     "href": "Syllabus.html#grading-summary",
     "title": "Syllabus",
     "section": "Grading Summary",
-    "text": "Grading Summary\nThe grading distribution of this course is as follows:\n\nIn-class Exercise and Class Participation 20%\nTake-home Exercise 50%\nVisual Analytics Project 30%\n\nProject blog 15%\nPoster 10%\nPractice research paper 25%\nArtifact 50%\n\n\nThere will be no mid-term test and final examination for this course."
+    "text": "Grading Summary\nThe grading distribution of this course is as follows:\n\nPre-lesson Preparation and Hands-on Exercise 20%\nIn-class Exercise and Class Participation 20%\nTake-home Exercise 30%\nVisual Analytics Project 30%\n\nProject blog 15%\nPoster 10%\nPractice research paper 25%\nArtifact 50%\n\n\nThere will be no mid-term test and final examination for this course."
   },
   {
     "objectID": "Syllabus.html#core-readings",
@@ -2455,5 +2455,194 @@
     "title": "The Epilogue",
     "section": "Things end but memories last forever!",
     "text": "Things end but memories last forever!"
+  },
+  {
+    "objectID": "Syllabus.html#course-components",
+    "href": "Syllabus.html#course-components",
+    "title": "Syllabus",
+    "section": "Course Components",
+    "text": "Course Components\nThe assessment for this course consists of four major components, namely:\n\nPre-lesson Preparation and Hands-on Exercise\nIn-class Exercise and Class Participation\nTake-home exercises\nVisual Analytics Project\n\n\nPre-lesson Preparation and Hands-on Exercise\nPre-lesson videos/slides and recommended readings exercises will be released one week before the weekly lesson starts. A strict requirement for each class meeting is to complete the assigned readings and video before coming to class. Students are encouraged to post question or issue encountered while viewing the video or reading the recommended articles on Piazza. Student sharing of insights from readings of assigned materials on Piazza will form a large part of the learning in this course. After learning the data visuaisation concepts and methods from lesson materials, the hands-on exercises aim to provide students the opportunity to gain hands-on experience on using selected R packages. It is important for students to complete the hands-on exercises before class. This is because the in-class discussion will extend the methods learned from the hands-on exercise to advanced modelling.\n\n\nIn-class Exercise and Class Participation\nDuring lesson, students are required to complete a series of in-class exercises using either Tableau or R. The in-class discussion will focus on how to critic existing data visualisation and how to deliver effective visual communication. In general, these exercises are guided interactively. By the end of each lesson, students are required to publish their in-class exercise on Tableau Public or Netlify.\n\n\nTake-home Exercise\nThe take-home exercise provides students with the opportunity to revise and practice the R packages and programming skills they had learned in class at home. It is a weekly exercise. Each exercise is designed to be completed within 3-5 hours. The exercise is not a repetition of the in-class exercise but it requires students to be innovative and creative in applying appropriate R packages to design enlightening and yet functional data visualisation for analytics purposes.\nStudents may work together to help one another with R programming issues and discuss the materials that constitute the take-home exercise. However, each student is required to prepare and submit the take-home exercise (including any computer work) on their own. Cheating is strictly prohibited. Cheating includes but not limited to: plagiarism and submission of work that is not the student’s\n\n\nVisual Analytics Project\nThe purpose of the project is to provide students first hand experience on building web-enabled visual analytics application by using Shiny. It aims to democratize data and analytics. Hence, the application focuses and emphasises on interactivity and effective integration of techniques from data analytics and data visualization.\nFor more details please refer to Visual Analytics Project page."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX01.html",
+    "href": "take-home_ex/TH_EX01.html",
+    "title": "Take-home Exercise 1",
+    "section": "",
+    "text": "Creating data visualisation beyond default"
+  },
+  {
+    "objectID": "take-home_ex/TH_EX02.html",
+    "href": "take-home_ex/TH_EX02.html",
+    "title": "Take-home Exercise 2",
+    "section": "",
+    "text": "The Task\nIn this take-home exercise, you are required to:\n\nselect one of the Take-home Exercise 1 prepared by your classmate,\ncritic the submission in terms of clarity and aesthetics,\nprepare a sketch for the alternative design by using the data visualisation design principles and best practices you had learned in Lesson 1 and 2, and\nremake the original design by using ggplot2, ggplot2 extensions and tidyverse packages.\n\nThe purpose of DataVis Makeover is to improve on the original visualisation. Focus on what works, what doesn’t work, why those things don’t work, and how you made it better. You should try stick to the fields in the data set provided and improve upon the original visualisation.\n\n\nSubmission Instructions\nThis is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.\nThe specific submission instructions are as follows:\n\nThe analytical visualisation must be prepared by using R and appropriate R packages.\nThe write-up of the take-home exercise must be in Quarto html document format. You are required to publish the write-up on Netlify.\nProvide the links to the Take-home Exercise write-up and github repository onto eLearn (i.e. Take-home Exercise section)\n\n\n\nSubmission date\nYour completed take-home exercise is due on 29th January 2023, by 11:59pm evening.\n\n\nLearning from senior\n\nSample 1\nSample 2\n\n\n\nPeer Learning\n\nAISHWARYA SANJAY MALOO\nANICA CLARICE ANTONELLA PASCUAL GALANO.  This submission provides the makeover incrementally. Each makeover is high reproducible. Able to provide constructive critics on the original design and provide appropriate alternative designs.\n\nARIANA TAN RUI MIN\nBHAIRAVI VAIRAVELU\nBRYANT PHILIPPE LEE\nCHAN JING WEI MAGDALENE\nCHANG XIN XIN EDA\nCHEN YIMAN\nCHERYL JEANNE CHIEW\nCHOI SUNHAM\nFARRAH BINTE MOHD FADIL\nHOANG HUY\nHOU TAO\nHUO DA\nKHOO WEI LUN\nLAU ZHI YONG WILLIE\nLAW MAN LONG\nLAW SHIANG ROU\nLI XINGYUN\nLI YIXUAN\nLI ZIYI\nLIANG MINGHAO\nLIM EN HUI CHRISTIANA\nLUO ZHENG\nMICHAEL KEVIN WIRATAMA DJOHAN . Managed to use appropriate sketches to critics and describe the alternative design. The descriptions of the alternative data visualisation are comprehensive and reproducible. Wraping up to submission with proper conclusion.\n\nPRACHI RAJENDRA ASHANI\nSHI CHEE LIANG\nSIDDHARTH SINGH\nSRIVATSAN MADAPUZI SRINIVASAN\nTAN ZEXEONG\nTAN ZHI HAO\nTAO MEIZHU\nTASAPORN VISAWAMETEEKUL\nWANG KUNRUI\nWANG RUIPENG\nXU JIAJIE\nYIN HANG\nYUN SHWE YEE KYAW\nZHU FANGYUAN"
+  },
+  {
+    "objectID": "take-home_ex/TH_EX03.html",
+    "href": "take-home_ex/TH_EX03.html",
+    "title": "Take-home Exercise 3",
+    "section": "",
+    "text": "In this take-home exercise, you are required to uncover the salient patterns of the resale prices of public housing property by residential towns and estates in Singapore by using appropriate analytical visualisation techniques learned in Lesson 4: Fundamentals of Visual Analytics. Students are encouraged to apply appropriate interactive techniques to enhance user and data discovery experiences.\nFor the purpose of this study, the focus should be on 3-ROOM, 4-ROOM and 5-ROOM types. You can choose to focus on either one housing type or multiple housing types. The study period should be on 2022."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX03.html#the-task",
+    "href": "take-home_ex/TH_EX03.html#the-task",
+    "title": "Take-home Exercise 3",
+    "section": "",
+    "text": "In this take-home exercise, you are required to uncover the salient patterns of the resale prices of public housing property by residential towns and estates in Singapore by using appropriate analytical visualisation techniques learned in Lesson 4: Fundamentals of Visual Analytics. Students are encouraged to apply appropriate interactive techniques to enhance user and data discovery experiences.\nFor the purpose of this study, the focus should be on 3-ROOM, 4-ROOM and 5-ROOM types. You can choose to focus on either one housing type or multiple housing types. The study period should be on 2022."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX03.html#the-data",
+    "href": "take-home_ex/TH_EX03.html#the-data",
+    "title": "Take-home Exercise 3",
+    "section": "The Data",
+    "text": "The Data\nResale flat princes based on registration date from Jan-2017 onwards should be used to prepare the analytical visualisation. It is available at Data.gov.sg."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX03.html#the-designing-tool",
+    "href": "take-home_ex/TH_EX03.html#the-designing-tool",
+    "title": "Take-home Exercise 3",
+    "section": "The Designing Tool",
+    "text": "The Designing Tool\nFor the purpose of this take-home exercise, ggplot2 and its extension should be used to design the analytical visualisation. tidyverse family of packages should be used to prepare the data."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX03.html#the-write-up",
+    "href": "take-home_ex/TH_EX03.html#the-write-up",
+    "title": "Take-home Exercise 3",
+    "section": "The Write-up",
+    "text": "The Write-up\nThe write-up of the take-home exercise should include but not limited to the followings:\n\nDescribe the selection and designed consideration of the analytical data visualisation used. The discussion should limit to not more than 150 words each.\nA reproducible description of the procedures used to prepare the analytical visualisation. Please refer to the peer submission I shared.\nA write-up of not more than 100 words to discuss the patterns reveal by each analytical visualisation prepared."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX03.html#submission-instructions",
+    "href": "take-home_ex/TH_EX03.html#submission-instructions",
+    "title": "Take-home Exercise 3",
+    "section": "Submission Instructions",
+    "text": "Submission Instructions\nThis is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.\nThe specific submission instructions are as follows:\n\nThe analytical visualisation must be prepared by using R and appropriate R packages.\nThe write-up of the take-home exercise must be in Quarto html document format. You are required to publish the write-up on Netlify.\nProvide the links to the Take-home Exercise write-up and github repository onto eLearn (i.e. Take-home Exercise section)"
+  },
+  {
+    "objectID": "take-home_ex/TH_EX03.html#submission-date",
+    "href": "take-home_ex/TH_EX03.html#submission-date",
+    "title": "Take-home Exercise 3",
+    "section": "Submission date",
+    "text": "Submission date\nThe completed take-home exercise is due on 15th February 2023, by 11:59pm evening."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX03.html#peer-learning",
+    "href": "take-home_ex/TH_EX03.html#peer-learning",
+    "title": "Take-home Exercise 3",
+    "section": "Peer Learning",
+    "text": "Peer Learning"
+  },
+  {
+    "objectID": "take-home_ex/TH_EX04.html",
+    "href": "take-home_ex/TH_EX04.html",
+    "title": "Take-home Exercise 4",
+    "section": "",
+    "text": "In this take-home exercise, you are required to uncover the impact of COVID-19 as well as the global economic and political dynamic in 2022 on Singapore bi-lateral trade (i.e. Import, Export and Trade Balance) by using appropriate analytical visualisation techniques learned in Lesson 6: It’s About Time. Students are encouraged to apply appropriate interactive techniques to enhance user and data discovery experiences."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX04.html#the-task",
+    "href": "take-home_ex/TH_EX04.html#the-task",
+    "title": "Take-home Exercise 4",
+    "section": "",
+    "text": "In this take-home exercise, you are required to uncover the impact of COVID-19 as well as the global economic and political dynamic in 2022 on Singapore bi-lateral trade (i.e. Import, Export and Trade Balance) by using appropriate analytical visualisation techniques learned in Lesson 6: It’s About Time. Students are encouraged to apply appropriate interactive techniques to enhance user and data discovery experiences."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX04.html#the-data",
+    "href": "take-home_ex/TH_EX04.html#the-data",
+    "title": "Take-home Exercise 4",
+    "section": "The Data",
+    "text": "The Data\nFor the purpose of this take-home exercise, Merchandise Trade provided by Department of Statistics, Singapore (DOS) will be used. The data are available under the sub-section of Merchandise Trade by Region/Market. You should download the data by clicking on the link Download all in Excel on the same webpage. The study period should be between January 2020 to December 2022."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX04.html#the-designing-tool",
+    "href": "take-home_ex/TH_EX04.html#the-designing-tool",
+    "title": "Take-home Exercise 4",
+    "section": "The Designing Tool",
+    "text": "The Designing Tool\nFor the purpose of this take-home exercise, ggplot2 and its extension should be used to design the analytical visualisation. tidyverse family of packages should be used to prepare the data."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX04.html#the-write-up",
+    "href": "take-home_ex/TH_EX04.html#the-write-up",
+    "title": "Take-home Exercise 4",
+    "section": "The Write-up",
+    "text": "The Write-up\nThe write-up of the take-home exercise should include but not limited to the followings:\n\nDescribe the selection and designed consideration of the analytical data visualisation used. The discussion should limit to not more than 150 words each.\nA reproducible description of the procedures used to prepare the analytical visualisation. Please refer to the peer submission I shared.\nA write-up of not more than 100 words to discuss the patterns reveal by each analytical visualisation prepared."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX04.html#submission-instructions",
+    "href": "take-home_ex/TH_EX04.html#submission-instructions",
+    "title": "Take-home Exercise 4",
+    "section": "Submission Instructions",
+    "text": "Submission Instructions\nThis is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.\nThe specific submission instructions are as follows:\n\nThe analytical visualisation must be prepared by using R and appropriate R packages.\nThe write-up of the take-home exercise must be in Quarto html document format. You are required to publish the write-up on Netlify.\nProvide the links to the Take-home Exercise write-up and github repository onto eLearn (i.e. Take-home Exercise section)"
+  },
+  {
+    "objectID": "take-home_ex/TH_EX04.html#submission-date",
+    "href": "take-home_ex/TH_EX04.html#submission-date",
+    "title": "Take-home Exercise 4",
+    "section": "Submission date",
+    "text": "Submission date\nThe completed take-home exercise is due on 26th February 2023, by 11:59pm evening."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX04.html#learning-from-senior",
+    "href": "take-home_ex/TH_EX04.html#learning-from-senior",
+    "title": "Take-home Exercise 4",
+    "section": "Learning from senior",
+    "text": "Learning from senior\n\nKELLY KOH KIA WOON DataViz Makeover write-up on Netlify and Tableau Public link. A must read submission.\nHow has Singapore changed since 2011? by Raymond TEO LIP PENG. This submission provides an useful reference on how to create animated motion plot by using time-oriented data.\nSingapore’s Demographic Composition Across Time by DENISE ADELE CHUA HUI SHAN. This submission provides interesting approaches to reveal values change over time without having to use animation."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX01.html#setting-the-scene",
+    "href": "take-home_ex/TH_EX01.html#setting-the-scene",
+    "title": "Take-home Exercise 1",
+    "section": "Setting the Scene",
+    "text": "Setting the Scene\nOECD education director Andreas Schleicher shared in a BBC article that “Singapore managed to achieve excellence without wide differences between children from wealthy and disadvantaged families.” (2016) Furthermore, several Singapore’s Minister for Education also started an “every school a good school” slogan. The general public, however, strongly belief that there are still disparities that exist, especially between the elite schools and neighborhood school, between students from families with higher socioeconomic status and those with relatively lower socioeconomic status and immigration and non-immigration families."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX01.html#the-task",
+    "href": "take-home_ex/TH_EX01.html#the-task",
+    "title": "Take-home Exercise 1",
+    "section": "The Task",
+    "text": "The Task\nThe 2022 Programme for International Student Assessment (PISA) data was released on December 5, 2022. PISA global education survey every three years to assess the education systems worldwide through testing 15 year old students in the subjects of mathematics, reading, and science.\nIn this take-home exercise, you are required to use appropriate Exploratory Data Analysis (EDA) methods and ggplot2 functions to reveal:\n\nthe distribution of Singapore students’ performance in mathematics, reading, and science, and\nthe relationship between these performances with schools, gender and socioeconomic status of the students.\n\nLimit your submission to not more than five EDA visualisation."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX01.html#the-designing-tool",
+    "href": "take-home_ex/TH_EX01.html#the-designing-tool",
+    "title": "Take-home Exercise 1",
+    "section": "The Designing Tool",
+    "text": "The Designing Tool\nThe data should be processed by using appropriate tidyverse family of packages and the statistical graphics must be prepared using ggplot2 and its extensions."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX01.html#the-data",
+    "href": "take-home_ex/TH_EX01.html#the-data",
+    "title": "Take-home Exercise 1",
+    "section": "The Data",
+    "text": "The Data\nThe PISA 2022 database contains the full set of responses from individual students, school principals and parents. There are a total of five data files and their contents are as follows:\n\nStudent questionnaire data file\nSchool questionnaire data file\nTeacher questionnaire data file\nCognitive item data file\nQuestionnaire timing data file\n\nThese data files are in SAS and SPSS formats. For the purpose of this assignment, you are required to use the Student questionnaire data file only. However, you are encouraged to download the other files for future needs.\nBesides the data files, you will find a collection of complementary materials such as questionnaires, codebooks, compendia and the rescaled indices for trend analyses in this page too.\nTo learn more about PISA 2022 survey, you are encouraged to consult PISA 2022 Technical Report"
+  },
+  {
+    "objectID": "take-home_ex/TH_EX01.html#the-write-up",
+    "href": "take-home_ex/TH_EX01.html#the-write-up",
+    "title": "Take-home Exercise 1",
+    "section": "The Write-up",
+    "text": "The Write-up\nThe write-up of the take-home exercise should include but not limited to the followings:\n\nA reproducible description of the procedures used to prepare the analytical visualisation. Please refer to the senior submission I shared below.\nA write-up of not more than 150 words to describe and discuss the patterns reveal by each EDA visualisation prepared."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX01.html#submission-date",
+    "href": "take-home_ex/TH_EX01.html#submission-date",
+    "title": "Take-home Exercise 1",
+    "section": "Submission date",
+    "text": "Submission date\nYour completed take-home exercise is due on 21st January 2024, by 11:59pm mid-night."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX01.html#learning-from-senior",
+    "href": "take-home_ex/TH_EX01.html#learning-from-senior",
+    "title": "Take-home Exercise 1",
+    "section": "Learning from senior",
+    "text": "Learning from senior\n\nThe City of Engagement: Undestanding the Demographics and Financial Characteristics of its Residents.\nTake-home Exercise 1"
+  },
+  {
+    "objectID": "take-home_ex/TH_EX01.html#peer-learning",
+    "href": "take-home_ex/TH_EX01.html#peer-learning",
+    "title": "Take-home Exercise 1",
+    "section": "Peer Learning",
+    "text": "Peer Learning"
   }
 ]
