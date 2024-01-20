@@ -60,33 +60,19 @@ editor: visual
 ### Tutorial
 
 -   [Getting Started with Dashboards and Stories](https://www.tableau.com/learn/tutorials/on-demand/getting-started-dashboards-and-stories)
-
 -   [Getting Started with Calculation](https://www.tableau.com/learn/tutorials/on-demand/getting-started-calculations)
-
 -   [Calculation Syntax](https://www.tableau.com/learn/tutorials/on-demand/calculation-syntax)
-
 -   [Introduction to LOD Expressions](https://www.tableau.com/learn/tutorials/on-demand/introduction-lod-expressions)
-
 -   [Intro to Table Calculations](https://www.tableau.com/learn/tutorials/on-demand/intro-table-calculations)
-
 -   [Modifying Table Calculations](https://www.tableau.com/learn/tutorials/on-demand/modifying-table-calculations)
-
 -   [Aggregate Calculations](https://www.tableau.com/learn/tutorials/on-demand/aggregate-calculations)
-
 -   [Date Calculations](https://www.tableau.com/learn/tutorials/on-demand/date-calculations)
-
 -   [Logic Calculation](https://www.tableau.com/learn/tutorials/on-demand/logic-calculations)
-
 -   [String Calculation](https://www.tableau.com/learn/tutorials/on-demand/string-calculations)
-
 -   [Number Calculation](https://www.tableau.com/learn/tutorials/on-demand/number-calculations)
-
 -   [Type Calculation](https://www.tableau.com/learn/tutorials/on-demand/type-calculations)
-
 -   [Conceptual Topics with LOD Expressions](https://www.tableau.com/learn/tutorials/on-demand/conceptual-topics-lod-expressions)
-
 -   [Aggregation and Replication with LOD Expressions](https://www.tableau.com/learn/tutorials/on-demand/aggregation-and-replication-lod-expressions)
-
 -   [Nested LOD Expressions](https://www.tableau.com/learn/tutorials/on-demand/nested-lod-expressions)
 
 ## Visual Analytics Method(s) of the Week
@@ -94,6 +80,8 @@ editor: visual
 ### Boxplot
 
 -   [Understanding Boxplots](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
+-   [Visualizing samples with
+box plots](https://www.nature.com/articles/nmeth.2813) ![](img/new1.jpg)
 -   Regina L. Nuzzo (2016) ["The Box Plots Alternative for Visualizing Quantitative Data"](https://onlinelibrary.wiley.com/doi/pdf/10.1016/j.pmrj.2016.02.001), *PR&M*, Volume8, Issue3, pp. 268-272.
 
 ### Violin Plots
