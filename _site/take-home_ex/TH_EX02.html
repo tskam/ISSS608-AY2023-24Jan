@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-01-12">
+<meta name="dcterms.date" content="2024-01-22">
 
-<title>ISSS608 - Take-home Exercise 1</title>
+<title>ISSS608 - Take-home Exercise 2: DataVis Makeover</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -194,17 +194,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#setting-the-scene" id="toc-setting-the-scene" class="nav-link active" data-scroll-target="#setting-the-scene">Setting the Scene</a></li>
-  <li><a href="#the-task" id="toc-the-task" class="nav-link" data-scroll-target="#the-task">The Task</a></li>
-  <li><a href="#the-data" id="toc-the-data" class="nav-link" data-scroll-target="#the-data">The Data</a></li>
-  <li><a href="#the-designing-tool" id="toc-the-designing-tool" class="nav-link" data-scroll-target="#the-designing-tool">The Designing Tool</a></li>
-  <li><a href="#the-write-up" id="toc-the-write-up" class="nav-link" data-scroll-target="#the-write-up">The Write-up</a></li>
-  <li><a href="#submission-instructions" id="toc-submission-instructions" class="nav-link" data-scroll-target="#submission-instructions">Submission Instructions</a>
-  <ul class="collapse">
+  <li><a href="#the-task" id="toc-the-task" class="nav-link active" data-scroll-target="#the-task">The Task</a></li>
+  <li><a href="#submission-instructions" id="toc-submission-instructions" class="nav-link" data-scroll-target="#submission-instructions">Submission Instructions</a></li>
   <li><a href="#submission-date" id="toc-submission-date" class="nav-link" data-scroll-target="#submission-date">Submission date</a></li>
   <li><a href="#learning-from-senior" id="toc-learning-from-senior" class="nav-link" data-scroll-target="#learning-from-senior">Learning from senior</a></li>
   <li><a href="#peer-learning" id="toc-peer-learning" class="nav-link" data-scroll-target="#peer-learning">Peer Learning</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -213,7 +207,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Take-home Exercise 1</h1>
+<h1 class="title">Take-home Exercise 2: DataVis Makeover</h1>
 </div>
 
 
@@ -224,151 +218,71 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">January 12, 2024</p>
+      <p class="date">January 22, 2024</p>
     </div>
   </div>
   
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">January 22, 2024</p>
+    </div>
+  </div>
     
   </div>
   
 
 </header>
 
-<div style="font-size: 200%;">
-<p><strong><em>Creating data visualisation beyond default</em></strong></p>
-</div>
-<section id="setting-the-scene" class="level2">
-<h2 class="anchored" data-anchor-id="setting-the-scene">Setting the Scene</h2>
-<p>OECD education director Andreas Schleicher shared in a BBC article that “Singapore managed to achieve excellence without wide differences between children from wealthy and disadvantaged families.” (2016) Furthermore, several Singapore’s Minister for Education also started an “every school a good school” slogan. The general public, however, strongly belief that there are still disparities that exist, especially between the elite schools and neighborhood school, between students from families with higher socioeconomic status and those with relatively lower socioeconomic status and immigration and non-immigration families.</p>
-</section>
-<section id="the-task" class="level2">
-<h2 class="anchored" data-anchor-id="the-task">The Task</h2>
-<p>The 2022 Programme for International Student Assessment (PISA) data was released on December 5, 2022. PISA global education survey every three years to assess the education systems worldwide through testing 15 year old students in the subjects of mathematics, reading, and science.</p>
-<p>In this take-home exercise, you are required to use appropriate <strong>Exploratory Data Analysis (EDA)</strong> methods and <strong>ggplot2</strong> functions to reveal:</p>
-<ul>
-<li>the distribution of Singapore students’ performance in mathematics, reading, and science, and</li>
-<li>the relationship between these performances with schools, gender and socioeconomic status of the students.</li>
-</ul>
-</section>
-<section id="the-data" class="level2">
-<h2 class="anchored" data-anchor-id="the-data">The Data</h2>
-<p>The <a href="https://www.oecd.org/pisa/data/2022database/">PISA 2022 database</a> contains the full set of responses from individual students, school principals and parents. There are a total of five data files and their contents are as follows:</p>
-<ul>
-<li>Student questionnaire data file</li>
-<li>School questionnaire data file</li>
-<li>Teacher questionnaire data file</li>
-<li>Cognitive item data file</li>
-<li>Questionnaire timing data file</li>
-</ul>
-<p>These data files are in SAS and SPSS formats. For the purpose of this assignment, you are required to use the <strong>Student questionnaire data file</strong> only. However, you are encouraged to download the other files for future needs.</p>
-<p>Besides the data files, you will find a collection of complementary materials such as questionnaires, codebooks, compendia and the rescaled indices for trend analyses in this page too.</p>
-<p>To learn more about PISA 2022 survey, you are encouraged to consult <a href="https://www.oecd.org/pisa/data/pisa2022technicalreport/">PISA 2022 Technical Report</a></p>
-</section>
-<section id="the-designing-tool" class="level2">
-<h2 class="anchored" data-anchor-id="the-designing-tool">The Designing Tool</h2>
-<p>The data should be processed by using appropriate <strong>tidyverse</strong> family of packages and the statistical graphics must be prepared using <strong>ggplot2</strong> and its extensions.</p>
-</section>
-<section id="the-write-up" class="level2">
-<h2 class="anchored" data-anchor-id="the-write-up">The Write-up</h2>
-<p>The write-up of the take-home exercise should include but not limited to the followings:</p>
-<ul>
-<li><p>A reproducible description of the procedures used to prepare the analytical visualisation. Please refer to the senior submission I shared below.</p></li>
-<li><p>A write-up of not more than 150 words to describe and discuss the patterns reveal by each EDA visualisation prepared.</p></li>
-</ul>
-</section>
-<section id="submission-instructions" class="level1">
-<h1>Submission Instructions</h1>
-<p>This is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Important
+DataVis Makeover
 </div>
 </div>
 <div class="callout-body-container callout-body">
+<p>The purpose of the makeover is to improve on the original visualisation. Focus on what works, what doesn’t work, why those things don’t work, and how you made it better. You should try stick to the fields in the data set provided and improve upon the original visualisation. However, if supplementing the data helps you tell a better story, go for it!</p>
+</div>
+</div>
+<section id="the-task" class="level2">
+<h2 class="anchored" data-anchor-id="the-task">The Task</h2>
+<p>In this take-home exercise, you are required to:</p>
+<ul>
+<li>select one of the Take-home Exercise 1 prepared by your classmate,</li>
+<li>critic the submission in terms of clarity and aesthetics,</li>
+<li>prepare a sketch for the alternative design by using the data visualisation design principles and best practices you had learned in Lesson 1 and 2, and</li>
+<li>remake the original design by using ggplot2, ggplot2 extensions and tidyverse packages.</li>
+</ul>
+</section>
+<section id="submission-instructions" class="level2">
+<h2 class="anchored" data-anchor-id="submission-instructions">Submission Instructions</h2>
+<p>This is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.</p>
 <p>The specific submission instructions are as follows:</p>
 <ul>
 <li>The analytical visualisation must be prepared by using <strong>R and appropriate R packages</strong>.</li>
-<li>Limit your submission to not more than <strong>five</strong> EDA visualisation.</li>
 <li>The write-up of the take-home exercise must be in <strong>Quarto html document</strong> format. You are required to publish the write-up on <a href="https://www.netlify.com/"><strong>Netlify</strong></a>.</li>
 </ul>
-</div>
-</div>
+</section>
 <section id="submission-date" class="level2">
 <h2 class="anchored" data-anchor-id="submission-date">Submission date</h2>
-<p>Your completed take-home exercise is due on <strong>21st January 2024, by 11:59pm mid-night</strong>.</p>
+<p>Your completed take-home exercise is due on <strong>28th January 2024, by 11:59pm evening</strong>.</p>
 </section>
-<section id="learning-from-senior" class="level2">
-<h2 class="anchored" data-anchor-id="learning-from-senior">Learning from senior</h2>
+<section id="learning-from-senior" class="level1">
+<h1>Learning from senior</h1>
 <ul>
-<li><p><a href="https://cosmic-boon.netlify.app/take-home_ex/take-home_ex01/take-home_ex1">The City of Engagement: Undestanding the Demographics and Financial Characteristics of its Residents</a>.</p></li>
-<li><p><a href="https://isss608-ay2023-haileycsy.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">Take-home Exercise 1</a></p></li>
+<li><a href="https://leslielong-da.netlify.app/posts/2022-04-25-takehome2/">Sample 1</a></li>
+<li><a href="https://raveenaclr.netlify.app/th_ex/th_ex2.html">Sample 2</a></li>
+<li><a href="https://acapvisualano.netlify.app/take-home_ex/take-home_ex2/take-home_ex2">ANICA CLARICE ANTONELLA PASCUAL GALANO</a>. <img src="img/thumbup1.jpg" class="img-fluid"> This submission provides the makeover incrementally. Each makeover is highly reproducible. Able to provide constructive critics on the original design and provide appropriate alternative designs.</li>
+<li><a href="https://isss608-michaeldj.netlify.app/take-home_ex/take-home_ex02/take-home_ex02">MICHAEL KEVIN WIRATAMA DJOHAN</a> <img src="img/thumbup1.jpg" class="img-fluid">. Managed to use appropriate sketches to critics and describe the alternative design. The descriptions of the alternative data visualisation are comprehensive and reproducible. Wrapping up to submission with proper conclusion.</li>
 </ul>
 </section>
-<section id="peer-learning" class="level2">
-<h2 class="anchored" data-anchor-id="peer-learning">Peer Learning</h2>
-<ul>
-<li><a href="https://isss608-ajason.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">ALEXEI JASON</a></li>
-<li><a href="https://isss608cjh.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">CAI JINGHENG</a></li>
-<li><a href="https://czx-isss608.netlify.app/take_home_ex/take_home_ex01/take_home_ex01">CHAI ZHIXUAN</a></li>
-<li><a href="https://isss608rogerchen.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">CHEN HAOYE ROGER</a></li>
-<li><a href="https://isss608-jinghan.netlify.app/take-home_ex/take-home_ex1/take-home_ex1">CHEN JINGHAN</a></li>
-<li><a href="https://chockwk-visual-analytics.netlify.app/exercises/th1/th1">CHOCK WAN KEEh</a></li>
-<li><a href="https://isss608-chl-coursework.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">CHOW HUI LING</a></li>
-<li><a href="https://isss608-chrixus.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">CHRISSANDRO</a></li>
-<li><a href="https://isss608-hci.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">CI HUI</a></li>
-<li><a href="https://isss608-ay2324-janterm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">COLIN JIANG KELIN</a></li>
-<li>[DU YEBIN]<br>
-</li>
-<li><a href="https://isss608-ay2023-24t2-ftj72.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">FREDDIE JR. NGO TAN</a></li>
-<li><a href="https://isss608-ay2023-24t2-wm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">FU WEIMING</a></li>
-<li><a href="https://isss608-ay2024-gaoya.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">GAO YA</a></li>
-<li><a href="https://gsh-vaa.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">GOH SI HUI</a></li>
-<li><a href="https://imranmi-isss608-jan24.netlify.app/take-home-ex/take-home-ex1a/take-home_ex1a">IMRAN BIN MOHD IBRAHIM</a></li>
-<li><a href="https://kbuathang-isss608-vaa.netlify.app/take-home_ex/take-home_ex1/take-home_ex1">KANYAPAK BUATHANG</a></li>
-<li><a href="https://isss608-ksm.netlify.app/take-home_ex/take-home_ex1/take-home_ex1">KOCK SI MIN</a></li>
-<li><a href="https://akalestale.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">KYLIE TAN JING YI</a><br>
-</li>
-<li><a href="https://isss608-shannon.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">LEE YUEH ERN SHANNON</a></li>
-<li><a href="https://isss608-spacebun.netlify.app/take-home_ex/take-home_ex1/take-home_ex1">LEW YING ZHEN SERENA</a></li>
-<li><a href="https://isss608-24jan-jiayili.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">LI JIAYI</a></li>
-<li><a href="">LI ZHONGCHAO</a><br>
-</li>
-<li><a href="https://jiajialim-isss608.netlify.app/take-home_ex/take-home_ex1/take-home_ex1">LIM JIA JIA</a></li>
-<li><a href="https://isss608-vaa-mvheng.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">MARY VANESSA HENG HUI KHIM</a></li>
-<li><a href="https://isss608-mb.netlify.app/take-home_ex/take-home_ex1/take-home_ex1">MICHAEL BERLIAN</a></li>
-<li><a href="">MOHAMED FIRDAUS BIN MOHD GHAZALI</a><br>
-</li>
-<li><a href="https://isss608-ay2024-rizfebriansyah.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">MUHAMMAD RIZQI FEBRIANSYAH</a></li>
-<li><a href="https://iss608-vaa-victorianeo.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">NEO LI XIAN VICTORIA ANNE</a></li>
-<li><a href="https://isss608-noelng.netlify.app/take_home_ex/take_home_ex01/take_home_ex01">NOEL NG SER YING</a></li>
-<li><a href="https://isss608-rachyrm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">RACHEL YEE RUI MIN</a></li>
-<li><a href="">SHAO GUYUE</a><br>
-</li>
-<li><a href="https://isss608-mitbsunyp.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">SUN YIPING</a></li>
-<li><a href="">TAAM YIN KWAN EUNICE</a><br>
-</li>
-<li><a href="https://isss608-ay2024-suanern.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">TEO SUAN ERN</a></li>
-<li><a href="https://janettoaisss608.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">TOA ZI YING JANET</a></li>
-<li><a href="https://whlmitbisss608.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">WAN HONGLU</a></li>
-<li><a href="https://isss608-vaa-wyaling.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">WANG YALING</a></li>
-<li><a href="">WANG YIZAO</a><br>
-</li>
-<li><a href="https://wyr-isss608.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">WEI YANRUI</a></li>
-<li><a href="https://isss608-ay2023-24t1-zach.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">WONG NGAI MUNN ZACHARY MARK</a></li>
-<li><a href="">XU LIN</a><br>
-</li>
-<li><a href="https://isss608-ay2023-suzyzsj.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">ZHANG SHUJIE</a></li>
-<li><a href="">ZHAO XINYUE</a></li>
-<li><a href="https://isss608-kaixin.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">ZHENG KAIXIN</a></li>
-<li><a href="https://isss608-kaixin.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">ZHOU RUOSONG</a></li>
-</ul>
+<section id="peer-learning" class="level1">
+<h1>Peer Learning</h1>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

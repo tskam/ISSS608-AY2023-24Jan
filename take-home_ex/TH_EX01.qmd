@@ -11,22 +11,20 @@ editor: visual
 
 ## Setting the Scene
 
-OECD education director Andreas Schleicher shared in a BBC article that “Singapore managed to achieve excellence without wide differences between children from wealthy and disadvantaged families.” (2016)  Furthermore, several Singapore’s Minister for Education also started an “every school a good school” slogan.  The general public, however, strongly belief that there are still disparities that exist, especially between the elite schools and neighborhood school, between students from families with higher socioeconomic status and those with relatively lower socioeconomic status and immigration and non-immigration families.  
+OECD education director Andreas Schleicher shared in a BBC article that “Singapore managed to achieve excellence without wide differences between children from wealthy and disadvantaged families.” (2016) Furthermore, several Singapore’s Minister for Education also started an “every school a good school” slogan. The general public, however, strongly belief that there are still disparities that exist, especially between the elite schools and neighborhood school, between students from families with higher socioeconomic status and those with relatively lower socioeconomic status and immigration and non-immigration families.
 
 ## The Task
 
-The 2022 Programme for International Student Assessment (PISA) data was released on December 5, 2022.  PISA global education survey every three years to assess the education systems worldwide through testing 15 year old students in the subjects of mathematics, reading, and science.  
+The 2022 Programme for International Student Assessment (PISA) data was released on December 5, 2022. PISA global education survey every three years to assess the education systems worldwide through testing 15 year old students in the subjects of mathematics, reading, and science.
 
 In this take-home exercise, you are required to use appropriate **Exploratory Data Analysis (EDA)** methods and **ggplot2** functions to reveal:
 
--   the distribution of Singapore students' performance in mathematics, reading, and science, and 
+-   the distribution of Singapore students' performance in mathematics, reading, and science, and
 -   the relationship between these performances with schools, gender and socioeconomic status of the students.
-
-Limit your submission to not more than **five** EDA visualisation.
 
 ## The Data
 
-The [PISA 2022 database](https://www.oecd.org/pisa/data/2022database/) contains the full set of responses from individual students, school principals and parents.  There are a total of five data files and their contents are as follows:  
+The [PISA 2022 database](https://www.oecd.org/pisa/data/2022database/) contains the full set of responses from individual students, school principals and parents. There are a total of five data files and their contents are as follows:
 
 -   Student questionnaire data file
 -   School questionnaire data file
@@ -34,11 +32,11 @@ The [PISA 2022 database](https://www.oecd.org/pisa/data/2022database/) contains 
 -   Cognitive item data file
 -   Questionnaire timing data file
 
-These data files are in SAS and SPSS formats.  For the purpose of this assignment, you are required to use the **Student questionnaire data file** only.  However, you are encouraged to download the other files for future needs. 
-    
+These data files are in SAS and SPSS formats. For the purpose of this assignment, you are required to use the **Student questionnaire data file** only. However, you are encouraged to download the other files for future needs.
+
 Besides the data files, you will find a collection of complementary materials such as questionnaires, codebooks, compendia and the rescaled indices for trend analyses in this page too.
 
-To learn more about PISA 2022 survey, you are encouraged to consult [PISA 2022 Technical Report](https://www.oecd.org/pisa/data/pisa2022technicalreport/)   
+To learn more about PISA 2022 survey, you are encouraged to consult [PISA 2022 Technical Report](https://www.oecd.org/pisa/data/pisa2022technicalreport/)
 
 ## The Designing Tool
 
@@ -60,6 +58,7 @@ This is an individual assignment. You are required to work on the take-home exer
 The specific submission instructions are as follows:
 
 -   The analytical visualisation must be prepared by using **R and appropriate R packages**.
+-   Limit your submission to not more than **five** EDA visualisation.
 -   The write-up of the take-home exercise must be in **Quarto html document** format. You are required to publish the write-up on [**Netlify**](https://www.netlify.com/).
 :::
 
@@ -74,4 +73,53 @@ Your completed take-home exercise is due on **21st January 2024, by 11:59pm mid-
 -   [Take-home Exercise 1](https://isss608-ay2023-haileycsy.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 
 ## Peer Learning
+
+-   [ALEXEI JASON](https://isss608-ajason.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [CAI JINGHENG](https://isss608cjh.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [CHAI ZHIXUAN](https://czx-isss608.netlify.app/take_home_ex/take_home_ex01/take_home_ex01)
+-   [CHEN HAOYE ROGER](https://isss608rogerchen.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [CHEN JINGHAN](https://isss608-jinghan.netlify.app/take-home_ex/take-home_ex1/take-home_ex1)
+-   [CHOCK WAN KEEh](https://chockwk-visual-analytics.netlify.app/exercises/th1/th1)
+-   [CHOW HUI LING](https://isss608-chl-coursework.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [CHRISSANDRO](https://isss608-chrixus.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [CI HUI](https://isss608-hci.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [COLIN JIANG KELIN](https://isss608-ay2324-janterm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [DU YEBIN]	
+-   [FREDDIE JR. NGO TAN](https://isss608-ay2023-24t2-ftj72.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [FU WEIMING](https://isss608-ay2023-24t2-wm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [GAO YA](https://isss608-ay2024-gaoya.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [GOH SI HUI](https://gsh-vaa.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [IMRAN BIN MOHD IBRAHIM](https://imranmi-isss608-jan24.netlify.app/take-home-ex/take-home-ex1a/take-home_ex1a)
+-   [KANYAPAK BUATHANG](https://kbuathang-isss608-vaa.netlify.app/take-home_ex/take-home_ex1/take-home_ex1)
+-   [KOCK SI MIN](https://isss608-ksm.netlify.app/take-home_ex/take-home_ex1/take-home_ex1)
+-   [KYLIE TAN JING YI](https://akalestale.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)	
+-   [LEE YUEH ERN SHANNON](https://isss608-shannon.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [LEW YING ZHEN SERENA](https://isss608-spacebun.netlify.app/take-home_ex/take-home_ex1/take-home_ex1)
+-   [LI JIAYI](https://isss608-24jan-jiayili.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [LI ZHONGCHAO]()	
+-   [LIM JIA JIA](https://jiajialim-isss608.netlify.app/take-home_ex/take-home_ex1/take-home_ex1)
+-   [MARY VANESSA HENG HUI KHIM](https://isss608-vaa-mvheng.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [MICHAEL BERLIAN](https://isss608-mb.netlify.app/take-home_ex/take-home_ex1/take-home_ex1)
+-   [MOHAMED FIRDAUS BIN MOHD GHAZALI]()	
+-   [MUHAMMAD RIZQI FEBRIANSYAH](https://isss608-ay2024-rizfebriansyah.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [NEO LI XIAN VICTORIA ANNE](https://iss608-vaa-victorianeo.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [NOEL NG SER YING](https://isss608-noelng.netlify.app/take_home_ex/take_home_ex01/take_home_ex01)
+-   [RACHEL YEE RUI MIN](https://isss608-rachyrm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [SHAO GUYUE]()	
+-   [SUN YIPING](https://isss608-mitbsunyp.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [TAAM YIN KWAN EUNICE]()	
+-   [TEO SUAN ERN](https://isss608-ay2024-suanern.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [TOA ZI YING JANET](https://janettoaisss608.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [WAN HONGLU](https://whlmitbisss608.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [WANG YALING](https://isss608-vaa-wyaling.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [WANG YIZAO]()	
+-   [WEI YANRUI](https://wyr-isss608.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [WONG NGAI MUNN ZACHARY MARK](https://isss608-ay2023-24t1-zach.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [XU LIN]()	
+-   [ZHANG SHUJIE](https://isss608-ay2023-suzyzsj.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [ZHAO XINYUE]()	
+-   [ZHENG KAIXIN](https://isss608-kaixin.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [ZHOU RUOSONG](https://isss608-kaixin.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+
+
 
