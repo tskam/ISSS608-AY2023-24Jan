@@ -84,7 +84,7 @@ Your completed take-home exercise is due on **21st January 2024, by 11:59pm mid-
 -   [CHRISSANDRO](https://isss608-chrixus.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [CI HUI](https://isss608-hci.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [COLIN JIANG KELIN](https://isss608-ay2324-janterm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
--   [DU YEBIN]	
+-   \[DU YEBIN\]\
 -   [FREDDIE JR. NGO TAN](https://isss608-ay2023-24t2-ftj72.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [FU WEIMING](https://isss608-ay2023-24t2-wm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [GAO YA](https://isss608-ay2024-gaoya.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
@@ -92,34 +92,31 @@ Your completed take-home exercise is due on **21st January 2024, by 11:59pm mid-
 -   [IMRAN BIN MOHD IBRAHIM](https://imranmi-isss608-jan24.netlify.app/take-home-ex/take-home-ex1a/take-home_ex1a)
 -   [KANYAPAK BUATHANG](https://kbuathang-isss608-vaa.netlify.app/take-home_ex/take-home_ex1/take-home_ex1)
 -   [KOCK SI MIN](https://isss608-ksm.netlify.app/take-home_ex/take-home_ex1/take-home_ex1)
--   [KYLIE TAN JING YI](https://akalestale.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)	
+-   [KYLIE TAN JING YI](https://akalestale.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)\
 -   [LEE YUEH ERN SHANNON](https://isss608-shannon.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [LEW YING ZHEN SERENA](https://isss608-spacebun.netlify.app/take-home_ex/take-home_ex1/take-home_ex1)
 -   [LI JIAYI](https://isss608-24jan-jiayili.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
--   [LI ZHONGCHAO]()	
+-   [LI ZHONGCHAO]()\
 -   [LIM JIA JIA](https://jiajialim-isss608.netlify.app/take-home_ex/take-home_ex1/take-home_ex1)
 -   [MARY VANESSA HENG HUI KHIM](https://isss608-vaa-mvheng.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [MICHAEL BERLIAN](https://isss608-mb.netlify.app/take-home_ex/take-home_ex1/take-home_ex1)
--   [MOHAMED FIRDAUS BIN MOHD GHAZALI]()	
+-   [MOHAMED FIRDAUS BIN MOHD GHAZALI]()\
 -   [MUHAMMAD RIZQI FEBRIANSYAH](https://isss608-ay2024-rizfebriansyah.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [NEO LI XIAN VICTORIA ANNE](https://iss608-vaa-victorianeo.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [NOEL NG SER YING](https://isss608-noelng.netlify.app/take_home_ex/take_home_ex01/take_home_ex01)
 -   [RACHEL YEE RUI MIN](https://isss608-rachyrm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
--   [SHAO GUYUE]()	
+-   [SHAO GUYUE]()\
 -   [SUN YIPING](https://isss608-mitbsunyp.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
--   [TAAM YIN KWAN EUNICE]()	
+-   [TAAM YIN KWAN EUNICE](https://eunicet608.netlify.app/take_home_exercise/take_home_ex01/take_home_ex01)\
 -   [TEO SUAN ERN](https://isss608-ay2024-suanern.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [TOA ZI YING JANET](https://janettoaisss608.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [WAN HONGLU](https://whlmitbisss608.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [WANG YALING](https://isss608-vaa-wyaling.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
--   [WANG YIZAO]()	
+-   [WANG YIZAO]()\
 -   [WEI YANRUI](https://wyr-isss608.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [WONG NGAI MUNN ZACHARY MARK](https://isss608-ay2023-24t1-zach.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
--   [XU LIN]()	
+-   [XU LIN]()\
 -   [ZHANG SHUJIE](https://isss608-ay2023-suzyzsj.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
--   [ZHAO XINYUE]()	
+-   [ZHAO XINYUE]()
 -   [ZHENG KAIXIN](https://isss608-kaixin.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [ZHOU RUOSONG](https://isss608-kaixin.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
-
-
-
