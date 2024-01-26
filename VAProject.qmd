@@ -17,7 +17,9 @@ A project may involve developing new methods or implementing visual analytics sy
 
 The followings are possible topic and data sources:
 
-TBA
+-   Discovering State of Learning with [PISA 2022](https://www.oecd.org/pisa/data/2022database/).  Please refer to [Research and Innovation in PISA](https://www.oecd.org/pisa/innovation/) to get more ideas.
+-   Discovering State of Economic with open Government Data.  
+-   
 
 ## Project Management
 
@@ -39,7 +41,7 @@ The Minutes of Meeting must be uploaded on eLearn within 24hrs after the meeting
 -   Brainstorming project ideas and consulting with course instructor anytime after the project topic(s) is released.
 -   Editing and publishing project proposal on Netlify latest by the end of **Week 5**.
 -   Uploading project poster on eLearn by **27th March 2024 at 11:59pm (mid-night)**.
--   Poster presentation: **30th March 2024, 9:00am-11:00am**. 
+-   Poster presentation: **30th March 2024, 9:00am-11:00am**.
 -   Submission of final application, user guide, project poster and artifacts: **31st March 2024 by 11:59pm (mid-night)**
 
 ## Project Deliverables
@@ -102,7 +104,7 @@ The final deliverable will include:
 -   Project poster
 -   Minutes of Meeting
 
-The final deliverable must be uploaded into the Dropbox of e-Learn (e.g. LMS).  It must in a **single zip** file format.  If the file size is beyond the file size allocated by eLean, it can be upoaded on SMU OneDrive.
+The final deliverable must be uploaded into the Dropbox of e-Learn (e.g. LMS). It must in a **single zip** file format. If the file size is beyond the file size allocated by eLean, it can be upoaded on SMU OneDrive.
 
 ## Grading
 
@@ -137,7 +139,6 @@ Note that the following examples are for references purposes. You are urge to us
 -   [Ohio City Renewal Solutions](https://isss698-vast-challenge-group8.netlify.app/)
 -   [Wealth Check Up](https://wealthcheckup.netlify.app/)
 
-
 ### AY2022-2023 January Term
 
 -   [Group 3: Tanzania Tourism Analysis](https://thehabaritanzania.netlify.app/)
@@ -148,7 +149,6 @@ Note that the following examples are for references purposes. You are urge to us
 -   [Network-enabled Maritime Observations](https://finding-nemo.netlify.app/)
 -   [A Fishy Business!](https://isss608-vastchallenge2023g3.netlify.app/)
 -   [FishEye](https://vaa-groupfour.netlify.app/)
-
 
 # Q & A
 
