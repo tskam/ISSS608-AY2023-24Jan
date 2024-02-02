@@ -19,7 +19,7 @@ The followings are possible topic and data sources:
 
 -   Discovering State of Learning with [PISA 2022](https://www.oecd.org/pisa/data/2022database/). Please refer to [Research and Innovation in PISA](https://www.oecd.org/pisa/innovation/) to get more ideas.
 -   Be Weatherwise or Otherwise! Visualising and analysing historical weather data from [Meteorological Service Singapore](http://www.weather.gov.sg/home/).  Please refer to [Impact Of Climate Change In Singapore](https://www.nccs.gov.sg/singapores-climate-action/impact-of-climate-change-in-singapore/)
--   Discovering State of Economic with open Government Data and [Nowcasting](https://en.wikipedia.org/wiki/Nowcasting_(economics)) methods.
+-   Discovering State of Economic with open Government Data and [Nowcasting](https://en.wikipedia.org/wiki/Nowcasting_(economics)) methods.  This [link](https://zindi.africa/competitions/rmb-monthly-mini-challenge-1-nowcast-april) provides useful reference.
 -   Who Gets What? Discovering G2B network from [GeBIZ](https://beta.data.gov.sg/collections/460/view).
 
 ## Project Management
