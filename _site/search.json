@@ -2480,16 +2480,16 @@
   {
     "objectID": "take-home_ex/TH_EX03.html",
     "href": "take-home_ex/TH_EX03.html",
-    "title": "Take-home Exercise 3",
+    "title": "Take-home Exercise 3: Be Weatherwise or Otherwise",
     "section": "",
-    "text": "In this take-home exercise, you are required to uncover the salient patterns of the resale prices of public housing property by residential towns and estates in Singapore by using appropriate analytical visualisation techniques learned in Lesson 4: Fundamentals of Visual Analytics. Students are encouraged to apply appropriate interactive techniques to enhance user and data discovery experiences.\nFor the purpose of this study, the focus should be on 3-ROOM, 4-ROOM and 5-ROOM types. You can choose to focus on either one housing type or multiple housing types. The study period should be on 2022."
+    "text": "According to an office report as shown in the infographic below,\n\nDaily mean temperature are projected to increase by 1.4 to 4.6, and\nThe contrast between the wet months (November to January) and dry month (February and June to September) is likely to be more pronounced.\n\n\nAs a visual analytics greenhorn, you are keen to apply newly acquired visual interactivity and visualising uncertainty methods to validate the claims presented above."
   },
   {
     "objectID": "take-home_ex/TH_EX03.html#the-task",
     "href": "take-home_ex/TH_EX03.html#the-task",
-    "title": "Take-home Exercise 3",
-    "section": "",
-    "text": "In this take-home exercise, you are required to uncover the salient patterns of the resale prices of public housing property by residential towns and estates in Singapore by using appropriate analytical visualisation techniques learned in Lesson 4: Fundamentals of Visual Analytics. Students are encouraged to apply appropriate interactive techniques to enhance user and data discovery experiences.\nFor the purpose of this study, the focus should be on 3-ROOM, 4-ROOM and 5-ROOM types. You can choose to focus on either one housing type or multiple housing types. The study period should be on 2022."
+    "title": "Take-home Exercise 3: Be Weatherwise or Otherwise",
+    "section": "The Task",
+    "text": "The Task\nIn this take-home exercise, you are required to:\n\nSelect a weather station and download historical daily temperature or rainfall data from Meteorological Service Singapore website,\nSelect either daily temperature or rainfall records of a month of the year 1983, 1993, 2003, 2013 and 2023 and create an analytics-driven data visualisation,\nApply appropriate interactive techniques to enhance the user experience in data discovery and/or visual story-telling."
   },
   {
     "objectID": "take-home_ex/TH_EX03.html#the-data",
@@ -2515,21 +2515,21 @@
   {
     "objectID": "take-home_ex/TH_EX03.html#submission-instructions",
     "href": "take-home_ex/TH_EX03.html#submission-instructions",
-    "title": "Take-home Exercise 3",
+    "title": "Take-home Exercise 3: Be Weatherwise or Otherwise",
     "section": "Submission Instructions",
-    "text": "Submission Instructions\nThis is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.\nThe specific submission instructions are as follows:\n\nThe analytical visualisation must be prepared by using R and appropriate R packages.\nThe write-up of the take-home exercise must be in Quarto html document format. You are required to publish the write-up on Netlify.\nProvide the links to the Take-home Exercise write-up and github repository onto eLearn (i.e. Take-home Exercise section)"
+    "text": "Submission Instructions\nThis is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.\nThe specific submission instructions are as follows:\n\nThe analytical visualisation must be prepared by using R and appropriate R packages. The report must provide detail discussion and explanation of:\n\nthe data preparation process,\nthe selection of data visualisation techniques used,\nand the data visualisation design and interactivity principles and best practices implemented.\n\nThe write-up of the take-home exercise must be in Quarto html document format and publish on Netlify."
   },
   {
     "objectID": "take-home_ex/TH_EX03.html#submission-date",
     "href": "take-home_ex/TH_EX03.html#submission-date",
-    "title": "Take-home Exercise 3",
+    "title": "Take-home Exercise 3: Be Weatherwise or Otherwise",
     "section": "Submission date",
-    "text": "Submission date\nThe completed take-home exercise is due on 15th February 2023, by 11:59pm evening."
+    "text": "Submission date\nYour completed take-home exercise is due on 18th February 2024, by 11:59pm evening."
   },
   {
     "objectID": "take-home_ex/TH_EX03.html#peer-learning",
     "href": "take-home_ex/TH_EX03.html#peer-learning",
-    "title": "Take-home Exercise 3",
+    "title": "Take-home Exercise 3: Be Weatherwise or Otherwise",
     "section": "Peer Learning",
     "text": "Peer Learning"
   },
@@ -2973,5 +2973,12 @@
     "title": "Building Web-enabled Visual Analytics Application with Shiny: Beyond the basic",
     "section": "References",
     "text": "References\nShiny Layout\n\nApplication layout guide\n\nShiny Module\n\nChapter 19 Shiny modules of Mastering Shiny.\nModularizing Shiny app code, online article\nCommunication between modules. This is a relatively old article, some functions have changed.\nShiny Modules\nShiny Modules (part 1) : Why using modules?\nShiny Modules (part 2): Share reactive among multiple modules\nShiny Modules (part 3): Dynamic module call."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX03.html#overview",
+    "href": "take-home_ex/TH_EX03.html#overview",
+    "title": "Take-home Exercise 3: Be Weatherwise or Otherwise",
+    "section": "",
+    "text": "According to an office report as shown in the infographic below,\n\nDaily mean temperature are projected to increase by 1.4 to 4.6, and\nThe contrast between the wet months (November to January) and dry month (February and June to September) is likely to be more pronounced.\n\n\nAs a visual analytics greenhorn, you are keen to apply newly acquired visual interactivity and visualising uncertainty methods to validate the claims presented above."
   }
 ]
