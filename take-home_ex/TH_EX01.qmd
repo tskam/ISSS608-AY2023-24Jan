@@ -84,7 +84,7 @@ Your completed take-home exercise is due on **21st January 2024, by 11:59pm mid-
 -   [CHRISSANDRO](https://isss608-chrixus.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [CI HUI](https://isss608-hci.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [COLIN JIANG KELIN](https://isss608-ay2324-janterm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
--   \[DU YEBIN\]\
+-   [DU YEBIN]()
 -   [FREDDIE JR. NGO TAN](https://isss608-ay2023-24t2-ftj72.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [FU WEIMING](https://isss608-ay2023-24t2-wm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [GAO YA](https://isss608-ay2024-gaoya.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
@@ -105,7 +105,7 @@ Your completed take-home exercise is due on **21st January 2024, by 11:59pm mid-
 -   [NEO LI XIAN VICTORIA ANNE](https://iss608-vaa-victorianeo.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [NOEL NG SER YING](https://isss608-noelng.netlify.app/take_home_ex/take_home_ex01/take_home_ex01)
 -   [RACHEL YEE RUI MIN](https://isss608-rachyrm.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
--   [SHAO GUYUE]()\
+-   [SHAO GUYUE](https://isss608-2023-2024-sgy.netlify.app/take-home_ex/take-home_ex01/take-home_exercise01)
 -   [SUN YIPING](https://isss608-mitbsunyp.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [TAAM YIN KWAN EUNICE](https://eunicet608.netlify.app/take_home_exercise/take_home_ex01/take_home_ex01)\
 -   [TEO SUAN ERN](https://isss608-ay2024-suanern.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
@@ -119,4 +119,4 @@ Your completed take-home exercise is due on **21st January 2024, by 11:59pm mid-
 -   [ZHANG SHUJIE](https://isss608-ay2023-suzyzsj.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [ZHAO XINYUE](https://isss608-ay2023-24t2.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
 -   [ZHENG KAIXIN](https://isss608-kaixin.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
--   [ZHOU RUOSONG](https://isss608-kaixin.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
+-   [ZHOU RUOSONG](https://isss608-ay2022-2023t4.netlify.app/take-home_ex/take-home_ex01/take-home_ex01)
