@@ -3,7 +3,6 @@ title: "Take-home Exercise 2: DataVis Makeover"
 date: "22 January 2024"
 date-modified: "last-modified"
 format: html
-editor: visual
 ---
 
 ::: callout-important
@@ -89,7 +88,3 @@ Your completed take-home exercise is due on **28th January 2024, by 11:59pm even
 -   [ZHAO XINYUE](https://isss608-ay2023-24t2.netlify.app/take-home_ex/take-home_ex02/take-home_ex02)
 -   [ZHENG KAIXIN](https://isss608-kaixin.netlify.app/take-home_ex/take-home_ex02/take-home_ex02)
 -   [ZHOU RUOSONG](https://isss608-ay2022-2023t4.netlify.app/take-home_ex/take-home_ex02/take-home_ex02)
-
-
-
-

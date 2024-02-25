@@ -3,7 +3,6 @@ title: "Take-home Exercise 3: Be Weatherwise or Otherwise"
 date: "2 February 2024"
 date-modified: "last-modified"
 format: html
-editor: visual
 ---
 
 ## Overview
@@ -15,8 +14,7 @@ According to an office report as shown in the infographic below,
 
 ![](img/Climate_change.jpg)
 
-As a visual analytics greenhorn, you are keen to apply newly acquired visual interactivity and visualising uncertainty methods to validate the claims presented above.  
-
+As a visual analytics greenhorn, you are keen to apply newly acquired visual interactivity and visualising uncertainty methods to validate the claims presented above.
 
 ## The Task
 
@@ -32,10 +30,10 @@ This is an individual assignment. You are required to work on the take-home exer
 
 The specific submission instructions are as follows:
 
--   The analytical visualisation must be prepared by using **R and appropriate R packages**.  The report must provide detail discussion and explanation of: 
-    -   the data preparation process, 
-    -   the selection of data visualisation techniques used, 
-    -   and the data visualisation design and interactivity principles and best practices implemented. 
+-   The analytical visualisation must be prepared by using **R and appropriate R packages**. The report must provide detail discussion and explanation of:
+    -   the data preparation process,
+    -   the selection of data visualisation techniques used,
+    -   and the data visualisation design and interactivity principles and best practices implemented.
 -   The write-up of the take-home exercise must be in **Quarto html document** format and publish on **Netlify**.
 
 ## Submission date
@@ -43,3 +41,52 @@ The specific submission instructions are as follows:
 Your completed take-home exercise is due on **18th February 2024, by 11:59pm evening**.
 
 ## Peer Learning
+
+-   [ALEXEI JASON](https://isss608-ajason.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [CAI JINGHENG](https://isss608cjh.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [CHAI ZHIXUAN](https://czx-isss608.netlify.app/take_home_ex/take_home_ex03/take_home_ex03)
+-   [CHEN HAOYE ROGER](https://isss608rogerchen.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [CHEN JINGHAN](https://isss608-jinghan.netlify.app/take-home_ex/take-home_ex3/take-home_ex3)
+-   [CHOCK WAN KEE](https://chockwk-visual-analytics.netlify.app/exercises/th3/th3)
+-   [CHOW HUI LING]()
+-   [CHRISSANDRO](https://isss608-chrixus.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [CI HUI](https://isss608-hci.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [COLIN JIANG KELIN](https://isss608-ay2324-janterm.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [DU YEBIN]()
+-   [FREDDIE JR. NGO TAN](https://isss608-ay2023-24t2-ftj72.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [FU WEIMING](https://isss608-ay2023-24t2-wm.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [GAO YA](https://isss608-ay2024-gaoya.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [GOH SI HUI](https://gsh-vaa.netlify.app/take-home_ex/take-home_ex03/take-home_ex03b)
+-   [IMRAN BIN MOHD IBRAHIM](https://imranmi-isss608-jan24.netlify.app/take-home-ex/take-home-ex3/take-home_ex3)
+-   [KANYAPAK BUATHANG](https://kbuathang-isss608-vaa.netlify.app/take-home_ex/take-home_ex3/take-home_ex3)
+-   [KOCK SI MIN](https://isss608-ksm.netlify.app/take-home_ex/take-home_ex3/take-home_ex3)
+-   [KYLIE TAN JING YI](https://akalestale.netlify.app/take-home_ex/take-home_ex03/take-home_ex03) ![](img/thumbup1.jpg) Have done exceptionally well to ensure that the processes are reproducible.  Able to design elegant and yet functional data visualisation. Able to apply interactivity effectively.
+-   [LEE YUEH ERN SHANNON](https://isss608-shannon.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [LEW YING ZHEN SERENA](https://isss608-spacebun.netlify.app/take-home_ex/take-home_ex3/take-home_ex3) ![](img/thumbup1.jpg) Have done exceptionally well to ensure that the processes are reproducible.  Putting the methods of visualising uncertainty and ggstatsplot into good used.Able to apply the functional data visualisation. Able to apply interactivity appropriately.
+-   [LI JIAYI](https://isss608-24jan-jiayili.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [LI ZHONGCHAO](https://isss608-ay2024t2-lzc.netlify.app/take-home_ex/take-home_ex03/take-home_ex3)
+-   [LIM JIA JIA](https://jiajialim-isss608.netlify.app/take-home_ex/take-home_ex3/take-home_ex3)
+-   [MARY VANESSA HENG HUI KHIM](https://isss608-vaa-mvheng.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [MICHAEL BERLIAN](https://isss608-mb.netlify.app/take-home_ex/take-home_ex3/take-home_ex3)
+-   [MOHAMED FIRDAUS BIN MOHD GHAZALI]()
+-   [MUHAMMAD RIZQI FEBRIANSYAH](https://isss608-ay2024-rizfebriansyah.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [NEO LI XIAN VICTORIA ANNE](https://iss608-vaa-victorianeo.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [NOEL NG SER YING](https://isss608-noelng.netlify.app/take_home_ex/take_home_ex03/take_home_ex03)
+-   [RACHEL YEE RUI MIN](https://isss608-rachyrm.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [SHAO GUYUE]()
+-   [SUN YIPING](https://isss608-mitbsunyp.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [TAAM YIN KWAN EUNICE](https://eunicet608.netlify.app/take_home_exercise/take_home_ex03/take_home_ex03)
+-   [TEO SUAN ERN](https://isss608-ay2024-suanern.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [TOA ZI YING JANET](https://janettoaisss608.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [WAN HONGLU](https://whlmitbisss608.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [WANG YALING](https://isss608-vaa-wyaling.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [WANG YIZAO]()	
+-   [WEI YANRUI](https://wyr-isss608.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [WONG NGAI MUNN ZACHARY MARK](https://isss608-ay2023-24t1-zach.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [XU LIN](https://isss608-xulin.netlify.app/take%20home%20exercise%203/take%20home%20exercise%203.html)
+-   [ZHANG SHUJIE](https://isss608-ay2023-suzyzsj.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [ZHAO XINYUE](https://isss608-ay2023-24t2.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [ZHENG KAIXIN](https://isss608-kaixin.netlify.app/take-home_ex/take-home_ex03/take-home_ex03)
+-   [ZHOU RUOSONG](https://isss608-ay2022-2023t4.netlify.app/take-home_ex/take-home_ex03/take-hone_ex03)
+
+
