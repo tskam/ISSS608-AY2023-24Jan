@@ -2536,16 +2536,16 @@
   {
     "objectID": "take-home_ex/TH_EX04.html",
     "href": "take-home_ex/TH_EX04.html",
-    "title": "Take-home Exercise 4",
+    "title": "Take-home Exercise 4: Prototyping Modules for Visual Analytics Shiny Application",
     "section": "",
-    "text": "In this take-home exercise, you are required to uncover the impact of COVID-19 as well as the global economic and political dynamic in 2022 on Singapore bi-lateral trade (i.e. Import, Export and Trade Balance) by using appropriate analytical visualisation techniques learned in Lesson 6: It’s About Time. Students are encouraged to apply appropriate interactive techniques to enhance user and data discovery experiences."
+    "text": "Prototyping is crucial\n\n\n\nPrototyping first may help keep you from investing far too much time for marginal gains.\nThe Art of UNIX Programming (Raymond 2003)"
   },
   {
     "objectID": "take-home_ex/TH_EX04.html#the-task",
     "href": "take-home_ex/TH_EX04.html#the-task",
-    "title": "Take-home Exercise 4",
-    "section": "",
-    "text": "In this take-home exercise, you are required to uncover the impact of COVID-19 as well as the global economic and political dynamic in 2022 on Singapore bi-lateral trade (i.e. Import, Export and Trade Balance) by using appropriate analytical visualisation techniques learned in Lesson 6: It’s About Time. Students are encouraged to apply appropriate interactive techniques to enhance user and data discovery experiences."
+    "title": "Take-home Exercise 4: Prototyping Modules for Visual Analytics Shiny Application",
+    "section": "The Task",
+    "text": "The Task\nIn this take-home exercise, you are required to select one of the module of your proposed Shiny application and complete the following tasks:\n\nTo evaluate and determine the necessary R packages needed for your Shiny application are supported in R CRAN,\nTo prepare and test the specific R codes can be run and returned the correct output as expected,\nTo determine the parameters and outputs that will be exposed on the Shiny applications, and\nTo select the appropriate Shiny UI components for exposing the parameters determine above.\n\nAll teams must consult the prototype page of AY2022-2023 January Term Group 3: Tanzania Tourism Analysis. There are three main modules in ths application the are: Exploratory Data Analysis & Confirmatory Data Analysis, Cluster Analysis and Decision Tree Analysis. Each of them were prepared by one of the member of the project team. After that they combined them into the Prototype page of their project website.\nTake-home Exercise 4 will be similar to one of the prototype module prepared above in term of content but with the following differences:\n\nYou are required to prepare the prototype module report as Take-home Exercise 4 submission. This mean, it has to be published on your own coursework page.\nYou are required to include a section called UI design for the different components of the UIs for the proposed design.\n\nFor storyboarding the UI Design, please consult Storyboard link."
   },
   {
     "objectID": "take-home_ex/TH_EX04.html#the-data",
@@ -2571,23 +2571,23 @@
   {
     "objectID": "take-home_ex/TH_EX04.html#submission-instructions",
     "href": "take-home_ex/TH_EX04.html#submission-instructions",
-    "title": "Take-home Exercise 4",
+    "title": "Take-home Exercise 4: Prototyping Modules for Visual Analytics Shiny Application",
     "section": "Submission Instructions",
-    "text": "Submission Instructions\nThis is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.\nThe specific submission instructions are as follows:\n\nThe analytical visualisation must be prepared by using R and appropriate R packages.\nThe write-up of the take-home exercise must be in Quarto html document format. You are required to publish the write-up on Netlify.\nProvide the links to the Take-home Exercise write-up and github repository onto eLearn (i.e. Take-home Exercise section)"
+    "text": "Submission Instructions\nThis is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.\nThe specific submission instructions are as follows:\n\nThe analytical visualisation must be prepared by using R and appropriate R packages. The report must provide detail discussion and explanation of:\n\nthe data preparation process,\nthe selection of data visualisation techniques used,\nand the data visualisation design and interactivity principles and best practices implemented.\n\nThe write-up of the take-home exercise must be in Quarto html document format and publish on Netlify."
   },
   {
     "objectID": "take-home_ex/TH_EX04.html#submission-date",
     "href": "take-home_ex/TH_EX04.html#submission-date",
-    "title": "Take-home Exercise 4",
+    "title": "Take-home Exercise 4: Prototyping Modules for Visual Analytics Shiny Application",
     "section": "Submission date",
-    "text": "Submission date\nThe completed take-home exercise is due on 26th February 2023, by 11:59pm evening."
+    "text": "Submission date\nYour completed take-home exercise is due on 10th March 2024, by 11:59pm evening.\n\n\n\n\n\n\nWarning\n\n\n\nStudents are strongly recommended to complete Take-home Exercise 4 ahead of the submission deadline. This will allow you to have more time to focus on the building of the Shiny application and to iterate the usability of the application."
   },
   {
     "objectID": "take-home_ex/TH_EX04.html#learning-from-senior",
     "href": "take-home_ex/TH_EX04.html#learning-from-senior",
-    "title": "Take-home Exercise 4",
-    "section": "Learning from senior",
-    "text": "Learning from senior\n\nKELLY KOH KIA WOON DataViz Makeover write-up on Netlify and Tableau Public link. A must read submission.\nHow has Singapore changed since 2011? by Raymond TEO LIP PENG. This submission provides an useful reference on how to create animated motion plot by using time-oriented data.\nSingapore’s Demographic Composition Across Time by DENISE ADELE CHUA HUI SHAN. This submission provides interesting approaches to reveal values change over time without having to use animation."
+    "title": "Take-home Exercise 4: Prototyping Modules for Visual Analytics Shiny Application",
+    "section": "Learning from Senior",
+    "text": "Learning from Senior\nAll teams must consult the prototype page of AY2022-2023 January Term Group 3: Tanzania Tourism Analysis. There are three main modules in ths application the are: Exploratory Data Analysis & Confirmatory Data Analysis, Cluster Analysis and Decision Tree Analysis. Each of them were prepared by one of the member of the project team. After that they combined them into the Prototype page of their project website."
   },
   {
     "objectID": "take-home_ex/TH_EX01.html#setting-the-scene",
@@ -2980,5 +2980,19 @@
     "title": "Take-home Exercise 3: Be Weatherwise or Otherwise",
     "section": "",
     "text": "According to an office report as shown in the infographic below,\n\nDaily mean temperature are projected to increase by 1.4 to 4.6, and\nThe contrast between the wet months (November to January) and dry month (February and June to September) is likely to be more pronounced.\n\n\nAs a visual analytics greenhorn, you are keen to apply newly acquired visual interactivity and visualising uncertainty methods to validate the claims presented above."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX04.html#overview",
+    "href": "take-home_ex/TH_EX04.html#overview",
+    "title": "Take-home Exercise 4: Prototyping Modules for Visual Analytics Shiny Application",
+    "section": "",
+    "text": "According to an office report as shown in the infographic below,\n\nDaily mean temperature are projected to increase by 1.4 to 4.6, and\nThe contrast between the wet months (November to January) and dry month (February and June to September) is likely to be more pronounced.\n\n\nAs a visual analytics greenhorn, you are keen to apply newly acquired visual interactivity and visualising uncertainty methods to validate the claims presented above."
+  },
+  {
+    "objectID": "take-home_ex/TH_EX04.html#peer-learning",
+    "href": "take-home_ex/TH_EX04.html#peer-learning",
+    "title": "Take-home Exercise 4: Prototyping Modules for Visual Analytics Shiny Application",
+    "section": "Peer Learning",
+    "text": "Peer Learning"
   }
 ]
