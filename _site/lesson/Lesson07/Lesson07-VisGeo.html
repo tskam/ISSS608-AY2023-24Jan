@@ -8,10 +8,10 @@
 <link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.361">
+  <meta name="generator" content="quarto-1.4.549">
 
   <meta name="author" content="Dr.&nbsp;Kam Tin Seong Assoc. Professor of Information Systems (Practice)">
-  <meta name="dcterms.date" content="2024-01-04">
+  <meta name="dcterms.date" content="2024-03-08">
   <title>ISSS608 - Lesson 8: Visualising and Analysing Geographic Data</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -157,7 +157,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -339,7 +340,7 @@ Dr.&nbsp;Kam Tin Seong<br>Assoc. Professor of Information Systems (Practice)
     </div>
 </div>
 
-  <p class="date">04 Jan 2024</p>
+  <p class="date">08 Mar 2024</p>
 </section>
 <section id="what-will-you-learn-from-this-lesson" class="slide level2">
 <h2>What will you learn from this lesson?</h2>
@@ -465,7 +466,7 @@ Dr.&nbsp;Kam Tin Seong<br>Assoc. Professor of Information Systems (Practice)
 <li>To reveal spatial patterns.</li>
 </ul>
 
-<img data-src="img/image6-5.jpg" width="467" class="r-stretch quarto-figure-left"><div style="font-size: 0.65em">
+<img data-src="img/image6-5.jpg" class="quarto-figure quarto-figure-left r-stretch" width="467"><div style="font-size: 0.65em">
 <p>Reference: <a href="https://en.wikipedia.org/wiki/John_Snow">John Snow Cholera Map</a></p>
 </div>
 </section>
@@ -792,7 +793,7 @@ It is important to note that a map is merely a two or three dimensional represen
 <li>Same number of features per class.</li>
 </ul>
 
-<img data-src="img/image6-22b.jpg" width="993" class="r-stretch quarto-figure-left"></section>
+<img data-src="img/image6-22b.jpg" class="quarto-figure quarto-figure-left r-stretch" width="993"></section>
 <section class="slide level2">
 
 <h3 id="data-classification-method-jenks-also-known-as-natural-breaks">Data classification method: Jenks (also known as Natural breaks)</h3>
@@ -856,8 +857,10 @@ It is important to note that a map is merely a two or three dimensional represen
 <p><a href="https://www.axismaps.com/guide/should-a-map-be-interactive">Should a map be interactive?</a></p>
 <p><a href="https://www.axismaps.com/guide/map-interaction">Map interaction</a></p>
 
+<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
+</div>
 </div>
 </section>
     </div>
@@ -886,7 +889,6 @@ It is important to note that a map is merely a two or three dimensional represen
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
-'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -1185,10 +1187,9 @@ It is important to note that a map is merely a two or three dimensional represen
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn) {
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -1198,8 +1199,17 @@ It is important to note that a map is merely a two or three dimensional represen
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
