@@ -750,12 +750,12 @@ Source: [Sankey Diagram](https://observablehq.com/@d3/sankey-diagram)
 
 ------------------------------------------------------------------------
 
-### Hive Plot (https://academic.oup.com/bib/article/13/5/627/412507)
+### [Hive Plot](https://academic.oup.com/bib/article/13/5/627/412507)
 
 ![](img/image9-54.jpg)
 
 ::: {style="font-size: 0.65em"}
-Source: [Hiveplot](http://www.hiveplot.net/)
+Source: [Hiveplot](https://hiveplot.com/)
 :::
 
 ------------------------------------------------------------------------
@@ -765,7 +765,7 @@ Source: [Hiveplot](http://www.hiveplot.net/)
 ![](img/image9-56.jpg)
 
 ::: {style="font-size: 0.65em"}
-Source: [hiveplot](https://konstantinkashin.com/assets/data/hiveplot.html)
+Source: [hiveplot](https://hiveplot.com/)
 :::
 
 ------------------------------------------------------------------------
