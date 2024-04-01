@@ -18,8 +18,8 @@ A project may involve developing new methods or implementing visual analytics sy
 The followings are possible topic and data sources:
 
 -   Discovering State of Learning with [PISA 2022](https://www.oecd.org/pisa/data/2022database/). Please refer to [Research and Innovation in PISA](https://www.oecd.org/pisa/innovation/) to get more ideas.
--   Be Weatherwise or Otherwise! Visualising and analysing historical weather data from [Meteorological Service Singapore](http://www.weather.gov.sg/home/).  Please refer to [Impact Of Climate Change In Singapore](https://www.nccs.gov.sg/singapores-climate-action/impact-of-climate-change-in-singapore/)
--   Discovering State of Economic with open Government Data and [Nowcasting](https://en.wikipedia.org/wiki/Nowcasting_(economics)) methods.  This [link](https://zindi.africa/competitions/rmb-monthly-mini-challenge-1-nowcast-april) provides useful reference.
+-   Be Weatherwise or Otherwise! Visualising and analysing historical weather data from [Meteorological Service Singapore](http://www.weather.gov.sg/home/). Please refer to [Impact Of Climate Change In Singapore](https://www.nccs.gov.sg/singapores-climate-action/impact-of-climate-change-in-singapore/)
+-   Discovering State of Economic with open Government Data and [Nowcasting](https://en.wikipedia.org/wiki/Nowcasting_(economics)) methods. This [link](https://zindi.africa/competitions/rmb-monthly-mini-challenge-1-nowcast-april) provides useful reference.
 -   Who Gets What? Discovering G2B network from [GeBIZ](https://beta.data.gov.sg/collections/460/view).
 
 ## Project Management
@@ -41,8 +41,8 @@ The Minutes of Meeting must be uploaded on eLearn within 24hrs after the meeting
 
 -   Brainstorming project ideas and consulting with course instructor anytime after the project topic(s) is released.
 -   Editing and publishing project proposal on Netlify latest by the end of **Week 5**.
--   Uploading project poster on eLearn by **27th March 2024 at 11:59pm (mid-night)**.
--   Poster presentation: **30th March 2024, 9:00am-11:00am**.
+-   ~~Uploading project poster on eLearn by **27th March 2024 at 11:59pm (mid-night)**~~.
+-   Poster presentation: ~~**30th March 2024, 9:00am-11:00am**~~ **6th April 2024 2:400pm**
 -   Submission of final application, user guide, project poster and artifacts: **31st March 2024 by 11:59pm (mid-night)**
 
 ## Project Deliverables
@@ -87,7 +87,7 @@ The dimensions for the poster must conform to the International Standards Organi
 
 -   Size = ISO A1 (594 × 841mm or 23.39 × 33.11inci)
 -   Resolution = 300dpi or above
--   File format = jpeg or pdf
+-   File format = jpeg
 
 Please ensure that the poster is in high resolution.
 
